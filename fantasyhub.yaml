@@ -1,75 +1,56 @@
-openapi: 3.1.0
+openapi: 3.0.1            # 3.0.1 est 100 % supporté par le builder
 info:
   title: FantasyHub
   version: "1.0.0"
   description: |
-    Petite API perso qui expose, via Apps Script, les données Google Sheets
-    « Rosters » (effectifs Sleeper) et « KTC » (valeurs KeepTradeCut).
+    Petite API perso qui expose, via Apps Script, les données Google Sheets  
+    – onglet **Rosters** (effectifs Sleeper) ou **KTC** (valeurs KeepTradeCut).
 
 servers:
-  - url: https://script.google.com/macros/s/AKfycbxtYKZMecEpG8KdN1JzJUk6MFpmcSgHCF6leAgRel1mkkyEXe_ymGH16ohdHWGTqI9g/exec
+  - url: https://script.google.com/macros/s/AKfycbxtYKZMecEpG8KdN1JzJUk6MFpmcSgHCF6leAgRel1mkkyEXe_ymGH16ohdHWGtqI9g/exec
 
 paths:
-  "/":
+  /:
     get:
-      summary: Get data from Google Sheet
+      operationId: getSheet            # ← requis par le builder
+      summary: Read a sheet tab
       description: |
-        Retourne le contenu d’un onglet (`Rosters` ou `KTC`) au format JSON
-        (par défaut) ou CSV.
+        Retourne le contenu d’un onglet (`Rosters` ou `KTC`) au format **JSON**  
+        (par défaut) ou **CSV**.
       parameters:
         - in: query
           name: sheet
-          description: Onglet à lire (Rosters par défaut)
+          description: Onglet à lire. Par défaut **Rosters**.
           required: false
           schema:
             type: string
             enum: [Rosters, KTC]
-            default: Rosters
         - in: query
           name: fmt
-          description: Format de sortie
+          description: Format de sortie (`json` ou `csv`). Par défaut **json**.
           required: false
           schema:
             type: string
             enum: [json, csv]
-            default: json
       responses:
         "200":
-          description: Liste d’objets représentant les lignes de la feuille
+          description: Données récupérées
           content:
             application/json:
               schema:
-                $ref: "#/components/schemas/Rows"
+                type: array
+                items:
+                  type: object
+                  additionalProperties: true
             text/csv:
               schema:
                 type: string
         "400":
-          description: Paramètres manquants ou invalides
+          description: Mauvaise requête
           content:
             application/json:
               schema:
-                $ref: "#/components/schemas/Error"
-        "500":
-          description: Erreur côté Apps Script
-          content:
-            application/json:
-              schema:
-                $ref: "#/components/schemas/Error"
-
-components:
-  schemas:
-    # Une ligne quelconque : clé = nom de colonne, valeur = string ou number
-    Row:
-      type: object
-      additionalProperties: true
-    Rows:
-      type: array
-      items:
-        $ref: "#/components/schemas/Row"
-    Error:
-      type: object
-      required: [error]
-      properties:
-        error:
-          type: string
-          description: Message d’erreur renvoyé par l’API
+                type: object
+                properties:
+                  error:
+                    type: string
