@@ -1,0 +1,75 @@
+openapi: 3.1.0
+info:
+  title: FantasyHub
+  version: "1.0.0"
+  description: |
+    Petite API perso qui expose, via Apps Script, les données Google Sheets
+    « Rosters » (effectifs Sleeper) et « KTC » (valeurs KeepTradeCut).
+
+servers:
+  - url: https://script.google.com/macros/s/AKfycbxtYKZMecEpG8KdN1JzJUk6MFpmcSgHCF6leAgRel1mkkyEXe_ymGH16ohdHWGTqI9g/exec
+
+paths:
+  "/":
+    get:
+      summary: Get data from Google Sheet
+      description: |
+        Retourne le contenu d’un onglet (`Rosters` ou `KTC`) au format JSON
+        (par défaut) ou CSV.
+      parameters:
+        - in: query
+          name: sheet
+          description: Onglet à lire (Rosters par défaut)
+          required: false
+          schema:
+            type: string
+            enum: [Rosters, KTC]
+            default: Rosters
+        - in: query
+          name: fmt
+          description: Format de sortie
+          required: false
+          schema:
+            type: string
+            enum: [json, csv]
+            default: json
+      responses:
+        "200":
+          description: Liste d’objets représentant les lignes de la feuille
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Rows"
+            text/csv:
+              schema:
+                type: string
+        "400":
+          description: Paramètres manquants ou invalides
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Error"
+        "500":
+          description: Erreur côté Apps Script
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Error"
+
+components:
+  schemas:
+    # Une ligne quelconque : clé = nom de colonne, valeur = string ou number
+    Row:
+      type: object
+      additionalProperties: true
+    Rows:
+      type: array
+      items:
+        $ref: "#/components/schemas/Row"
+    Error:
+      type: object
+      required: [error]
+      properties:
+        error:
+          type: string
+          description: Message d’erreur renvoyé par l’API
