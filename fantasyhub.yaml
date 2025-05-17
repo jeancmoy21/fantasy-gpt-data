@@ -1,44 +1,45 @@
-openapi: 3.0.1            # 3.0.1 est 100 % supporté par le builder
+openapi: 3.0.1
 info:
   title: FantasyHub
   version: "1.0.0"
   description: |
-    Petite API perso qui expose, via Apps Script, les données Google Sheets  
-    – onglet **Rosters** (effectifs Sleeper) ou **KTC** (valeurs KeepTradeCut).
+    Petite API perso exposant, via Apps Script, les données Google Sheets :
+    • **Rosters** (effectifs Sleeper)  
+    • **KTC**     (valeurs KeepTradeCut)
 
 servers:
-  - url: https://script.google.com/macros/s/AKfycbxtYKZMecEpG8KdN1JzJUk6MFpmcSgHCF6leAgRel1mkkyEXe_ymGH16ohdHWGtqI9g/exec
+  - url: https://script.google.com/macros/s/AKfycbxtYKZMecEpG8KdN1JzJUk6MFpmcSgHCF6leAgRel1mkkyEXe_ymGH16ohdHWGTqI9g/exec
 
 paths:
   /:
     get:
-      operationId: getSheet            # ← requis par le builder
+      operationId: getSheet            # ← identifiant OBLIGATOIRE
       summary: Read a sheet tab
       description: |
-        Retourne le contenu d’un onglet (`Rosters` ou `KTC`) au format **JSON**  
-        (par défaut) ou **CSV**.
+        Retourne le contenu d’un onglet (`Rosters` ou `KTC`) au format JSON
+        (par défaut) ou CSV.
       parameters:
         - in: query
           name: sheet
-          description: Onglet à lire. Par défaut **Rosters**.
+          description: Onglet à lire (défaut : **Rosters**)
           required: false
           schema:
             type: string
             enum: [Rosters, KTC]
         - in: query
           name: fmt
-          description: Format de sortie (`json` ou `csv`). Par défaut **json**.
+          description: Format de sortie (défaut : **json**)
           required: false
           schema:
             type: string
             enum: [json, csv]
       responses:
         "200":
-          description: Données récupérées
+          description: OK
           content:
             application/json:
               schema:
-                type: array
+                type: array            # ← tableau de lignes
                 items:
                   type: object
                   additionalProperties: true
@@ -46,7 +47,16 @@ paths:
               schema:
                 type: string
         "400":
-          description: Mauvaise requête
+          description: Bad request (paramètre manquant ou invalide)
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  error:
+                    type: string
+        "500":
+          description: Erreur interne Apps Script
           content:
             application/json:
               schema:
