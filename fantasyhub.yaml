@@ -2,10 +2,10 @@ openapi: 3.1.0
 info:
   title: FantasyHub
   version: "1.0.0"
-  description: |
-    Petite API perso exposant, via Apps Script, les données Google Sheets :
-    • **Rosters** (effectifs Sleeper)  
-    • **KTC**     (valeurs KeepTradeCut)
+  description: >
+    API Apps Script exposant deux onglets Google Sheets :
+    - Rosters  (Sleeper rosters)
+    - KTC      (KeepTradeCut superflex values)
 
 servers:
   - url: https://script.google.com/macros/s/AKfycbxtYKZMecEpG8KdN1JzJUk6MFpmcSgHCF6leAgRel1mkkyEXe_ymGH16ohdHWGTqI9g/exec
@@ -13,33 +13,32 @@ servers:
 paths:
   /:
     get:
-      operationId: getSheet            # ← identifiant OBLIGATOIRE
+      operationId: getSheet          # identifiant requis
       summary: Read a sheet tab
-      description: |
-        Retourne le contenu d’un onglet (`Rosters` ou `KTC`) au format JSON
-        (par défaut) ou CSV.
       parameters:
         - in: query
           name: sheet
-          description: Onglet à lire (défaut : **Rosters**)
+          description: Sheet tab (Rosters par défaut)
           required: false
           schema:
             type: string
             enum: [Rosters, KTC]
+            default: Rosters
         - in: query
           name: fmt
-          description: Format de sortie (défaut : **json**)
+          description: Output format (json par défaut)
           required: false
           schema:
             type: string
             enum: [json, csv]
+            default: json
       responses:
         "200":
-          description: OK
+          description: Successful response
           content:
             application/json:
               schema:
-                type: array            # ← tableau de lignes
+                type: array          # tableau de lignes
                 items:
                   type: object
                   additionalProperties: true
@@ -47,7 +46,7 @@ paths:
               schema:
                 type: string
         "400":
-          description: Bad request (paramètre manquant ou invalide)
+          description: Bad request
           content:
             application/json:
               schema:
@@ -56,7 +55,7 @@ paths:
                   error:
                     type: string
         "500":
-          description: Erreur interne Apps Script
+          description: Server error
           content:
             application/json:
               schema:
