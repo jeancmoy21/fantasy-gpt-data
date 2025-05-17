@@ -1,24 +1,24 @@
 openapi: 3.1.0
 info:
   title: FantasyHub
-  version: "1.0.0"
-  description: >
-    API Apps Script exposant deux onglets Google Sheets :
-    - Rosters  (Sleeper rosters)
-    - KTC      (KeepTradeCut superflex values)
+  version: "1.1.0"
+  description: |
+    Petite API Apps Script qui renvoie les données Google Sheets :
+    - **Rosters** (effectifs Sleeper)
+    - **KTC**     (valeurs KeepTradeCut)
 
 servers:
-  - url: https://script.google.com/macros/s/AKfycbxtYKZMecEpG8KdN1JzJUk6MFpmcSgHCF6leAgRel1mkkyEXe_ymGH16ohdHWGTqI9g/exec
+  - url: https://script.googleusercontent.com/macros/echo?user_content_key=AehSKLgtQy9IQgY879fwrFcCNE0p5lvpPBL_Xu2fSL2AeyI8XjdPSgum9pnwC8w5H9H3PNtn1CCGHRzEjs-EQKb3edV7cYkOqwZVB3tgUA8Zxg6OON5jJIxl8SLZLHPwJs62NQ-jZjd8rAaXETqwmNrAZ7JZ5mGHdlOMymXuOuSE0RyQ19JjkCokVZWyCsvCR1M_fJ96VDnnv230ByRMAVWsTBeIUI5D9CLui7ptPVZGAcEhx41ytjz-GY95ZbhOwWlToiEZvcSTwNgtfGJSLuhdL6eBym4T2g&lib=MDbxwXH20Vo7PgQBqAcMhlFg4obmMhJ28
 
 paths:
-  /:
+  "/":
     get:
-      operationId: getSheet          # identifiant requis
-      summary: Read a sheet tab
+      operationId: getSheet              # ←  requis par ChatGPT
+      summary: Get data from Google Sheet
       parameters:
         - in: query
           name: sheet
-          description: Sheet tab (Rosters par défaut)
+          description: Onglet à lire
           required: false
           schema:
             type: string
@@ -26,40 +26,62 @@ paths:
             default: Rosters
         - in: query
           name: fmt
-          description: Output format (json par défaut)
+          description: Format de sortie
           required: false
           schema:
             type: string
             enum: [json, csv]
             default: json
+        - in: query
+          name: limit
+          description: Nombre maxi de lignes (défaut 200, max 2000)
+          required: false
+          schema:
+            type: integer
+            minimum: 1
+            maximum: 2000
+            default: 200
+        - in: query
+          name: player_id
+          description: Filtre sur **player_id** (optionnel)
+          required: false
+          schema:
+            type: string
       responses:
         "200":
-          description: Successful response
+          description: Tableau d’objets (lignes)
           content:
             application/json:
               schema:
-                type: array          # tableau de lignes
-                items:
-                  type: object
-                  additionalProperties: true
+                $ref: "#/components/schemas/Rows"
             text/csv:
               schema:
                 type: string
         "400":
-          description: Bad request
+          description: Mauvaise requête
           content:
             application/json:
               schema:
-                type: object
-                properties:
-                  error:
-                    type: string
+                $ref: "#/components/schemas/Error"
         "500":
-          description: Server error
+          description: Erreur serveur
           content:
             application/json:
               schema:
-                type: object
-                properties:
-                  error:
-                    type: string
+                $ref: "#/components/schemas/Error"
+
+components:
+  schemas:
+    Row:
+      type: object
+      additionalProperties: true
+    Rows:
+      type: array
+      items:
+        $ref: "#/components/schemas/Row"
+    Error:
+      type: object
+      required: [error]
+      properties:
+        error:
+          type: string
