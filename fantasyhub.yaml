@@ -74,11 +74,15 @@ components:
   schemas:
     Row:
       type: object
+      description: Une ligne quelconque (colonnes dynamiques)
+      properties: {}            # ←  obligé pour le validateur
       additionalProperties: true
+
     Rows:
       type: array
       items:
         $ref: "#/components/schemas/Row"
+
     Error:
       type: object
       required: [error]
