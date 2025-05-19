@@ -1,0 +1,82 @@
+[
+  {
+    "league_id": "1219823266667974656",
+    "league_name": "League of inches",
+    "league_type": "dynasty",
+    "nb_teams": 12,
+    "format": "Superflex",
+    "ppr_type": "Standard",
+    "bench_size": 11,
+    "starting_lineup": "QB,RB,RB,WR,WR,WR,TE,FLEX,FLEX,SUPER_FLEX,BN,BN,BN,BN,BN,BN,BN,BN,BN,BN,BN"
+  },
+  {
+    "league_id": "1213954931388579840",
+    "league_name": "League of Misfits",
+    "league_type": "dynasty",
+    "nb_teams": 12,
+    "format": "Superflex",
+    "ppr_type": "Standard",
+    "bench_size": 13,
+    "starting_lineup": "QB,RB,RB,WR,WR,WR,TE,FLEX,FLEX,FLEX,SUPER_FLEX,BN,BN,BN,BN,BN,BN,BN,BN,BN,BN,BN,BN,BN"
+  },
+  {
+    "league_id": "1213949859086729216",
+    "league_name": "In Memory of Tebowing",
+    "league_type": "dynasty",
+    "nb_teams": 12,
+    "format": "Superflex",
+    "ppr_type": "Standard",
+    "bench_size": 13,
+    "starting_lineup": "QB,RB,RB,WR,WR,WR,TE,FLEX,FLEX,FLEX,SUPER_FLEX,BN,BN,BN,BN,BN,BN,BN,BN,BN,BN,BN,BN,BN"
+  },
+  {
+    "league_id": "1197256682418212864",
+    "league_name": "Blake Bortles Fan Club",
+    "league_type": "dynasty",
+    "nb_teams": 14,
+    "format": "1QB",
+    "ppr_type": "Standard",
+    "bench_size": 14,
+    "starting_lineup": "QB,RB,RB,WR,WR,WR,TE,FLEX,FLEX,FLEX,BN,BN,BN,BN,BN,BN,BN,BN,BN,BN,BN,BN,BN,BN"
+  },
+  {
+    "league_id": "1182378199929344000",
+    "league_name": "Second breakfast",
+    "league_type": "dynasty",
+    "nb_teams": 12,
+    "format": "Superflex",
+    "ppr_type": "Standard",
+    "bench_size": 9,
+    "starting_lineup": "QB,RB,RB,WR,WR,TE,FLEX,FLEX,SUPER_FLEX,BN,BN,BN,BN,BN,BN,BN,BN,BN"
+  },
+  {
+    "league_id": "1182360976637104128",
+    "league_name": "Show Me Your TDs",
+    "league_type": "keeper",
+    "nb_teams": 12,
+    "format": "1QB",
+    "ppr_type": "Standard",
+    "bench_size": 5,
+    "starting_lineup": "QB,RB,RB,WR,WR,TE,FLEX,FLEX,DEF,BN,BN,BN,BN,BN"
+  },
+  {
+    "league_id": "1180695989290958848",
+    "league_name": "The Battle of Los Angeles",
+    "league_type": "dynasty",
+    "nb_teams": 12,
+    "format": "Superflex",
+    "ppr_type": "Standard",
+    "bench_size": 15,
+    "starting_lineup": "QB,RB,RB,WR,WR,TE,FLEX,FLEX,FLEX,SUPER_FLEX,BN,BN,BN,BN,BN,BN,BN,BN,BN,BN,BN,BN,BN,BN,BN"
+  },
+  {
+    "league_id": "1180631019983241216",
+    "league_name": "Just Keep Swiming",
+    "league_type": "keeper",
+    "nb_teams": 12,
+    "format": "Superflex",
+    "ppr_type": "Standard",
+    "bench_size": 8,
+    "starting_lineup": "QB,RB,RB,WR,WR,WR,TE,FLEX,FLEX,SUPER_FLEX,BN,BN,BN,BN,BN,BN,BN,BN"
+  }
+]
