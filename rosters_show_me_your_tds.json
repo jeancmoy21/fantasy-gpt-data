@@ -5,9 +5,15 @@
     "team_name": "Los Anchiladas",
     "manager": "Losanchiladas",
     "player_id": 11566,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Jayden Daniels",
+    "pos": "QB",
+    "nfl_team": "WAS",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -15,9 +21,15 @@
     "team_name": "Los Anchiladas",
     "manager": "Losanchiladas",
     "player_id": 11576,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Braelon Allen",
+    "pos": "RB",
+    "nfl_team": "NYJ",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -25,9 +37,15 @@
     "team_name": "Los Anchiladas",
     "manager": "Losanchiladas",
     "player_id": 11586,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Blake Corum",
+    "pos": "RB",
+    "nfl_team": "LAR",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -35,9 +53,15 @@
     "team_name": "Los Anchiladas",
     "manager": "Losanchiladas",
     "player_id": 11589,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Trey Benson",
+    "pos": "RB",
+    "nfl_team": "ARI",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -45,9 +69,15 @@
     "team_name": "Los Anchiladas",
     "manager": "Losanchiladas",
     "player_id": 11632,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Malik Nabers",
+    "pos": "WR",
+    "nfl_team": "NYG",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -55,9 +85,15 @@
     "team_name": "Los Anchiladas",
     "manager": "Losanchiladas",
     "player_id": 4033,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "David Njoku",
+    "pos": "TE",
+    "nfl_team": "CLE",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -65,9 +101,15 @@
     "team_name": "Los Anchiladas",
     "manager": "Losanchiladas",
     "player_id": 4037,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Chris Godwin",
+    "pos": "WR",
+    "nfl_team": "TBB",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -75,9 +117,15 @@
     "team_name": "Los Anchiladas",
     "manager": "Losanchiladas",
     "player_id": 5248,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Gus Edwards",
+    "pos": "RB",
+    "nfl_team": "FA",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -85,9 +133,15 @@
     "team_name": "Los Anchiladas",
     "manager": "Losanchiladas",
     "player_id": 5872,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Deebo Samuel",
+    "pos": "WR",
+    "nfl_team": "WAS",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -95,9 +149,15 @@
     "team_name": "Los Anchiladas",
     "manager": "Losanchiladas",
     "player_id": 5927,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Terry McLaurin",
+    "pos": "WR",
+    "nfl_team": "WAS",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -105,9 +165,15 @@
     "team_name": "Los Anchiladas",
     "manager": "Losanchiladas",
     "player_id": 5947,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Jakobi Meyers",
+    "pos": "WR",
+    "nfl_team": "LVR",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -115,9 +181,15 @@
     "team_name": "Los Anchiladas",
     "manager": "Losanchiladas",
     "player_id": 6803,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Brandon Aiyuk",
+    "pos": "WR",
+    "nfl_team": "SFO",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -125,9 +197,15 @@
     "team_name": "Los Anchiladas",
     "manager": "Losanchiladas",
     "player_id": 6804,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Jordan Love",
+    "pos": "QB",
+    "nfl_team": "GBP",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -135,9 +213,15 @@
     "team_name": "Los Anchiladas",
     "manager": "Losanchiladas",
     "player_id": 6806,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "J.K. Dobbins",
+    "pos": "RB",
+    "nfl_team": "LAC",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -145,9 +229,15 @@
     "team_name": "Los Anchiladas",
     "manager": "Losanchiladas",
     "player_id": 9488,
-    "player_name": "Nate Washington",
+    "player_name": "Jaxon Smith-Njigba",
     "pos": "WR",
-    "nfl_team": "FA"
+    "nfl_team": "SEA",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -155,9 +245,15 @@
     "team_name": "",
     "manager": "Bountyhunters1",
     "player_id": 10232,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Michael Wilson",
+    "pos": "WR",
+    "nfl_team": "ARI",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -165,9 +261,15 @@
     "team_name": "",
     "manager": "Bountyhunters1",
     "player_id": 1466,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Travis Kelce",
+    "pos": "TE",
+    "nfl_team": "KCC",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -175,9 +277,15 @@
     "team_name": "",
     "manager": "Bountyhunters1",
     "player_id": 2359,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Ameer Abdullah",
+    "pos": "RB",
+    "nfl_team": "LVR",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -185,9 +293,15 @@
     "team_name": "",
     "manager": "Bountyhunters1",
     "player_id": 4035,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Alvin Kamara",
+    "pos": "RB",
+    "nfl_team": "NOS",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -195,9 +309,15 @@
     "team_name": "",
     "manager": "Bountyhunters1",
     "player_id": 4866,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Saquon Barkley",
+    "pos": "RB",
+    "nfl_team": "PHI",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -205,9 +325,15 @@
     "team_name": "",
     "manager": "Bountyhunters1",
     "player_id": 6770,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Joe Burrow",
+    "pos": "QB",
+    "nfl_team": "CIN",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -215,9 +341,15 @@
     "team_name": "",
     "manager": "Bountyhunters1",
     "player_id": 6819,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Michael Pittman",
+    "pos": "WR",
+    "nfl_team": "IND",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -225,9 +357,15 @@
     "team_name": "",
     "manager": "Bountyhunters1",
     "player_id": 7588,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Javonte Williams",
+    "pos": "RB",
+    "nfl_team": "DAL",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -235,9 +373,15 @@
     "team_name": "",
     "manager": "Bountyhunters1",
     "player_id": 7670,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Joshua Palmer",
+    "pos": "WR",
+    "nfl_team": "BUF",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -245,9 +389,15 @@
     "team_name": "",
     "manager": "Bountyhunters1",
     "player_id": 8117,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Jalen Tolbert",
+    "pos": "WR",
+    "nfl_team": "DAL",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -255,9 +405,15 @@
     "team_name": "",
     "manager": "Bountyhunters1",
     "player_id": 8126,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Wan'Dale Robinson",
+    "pos": "WR",
+    "nfl_team": "NYG",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -265,9 +421,15 @@
     "team_name": "",
     "manager": "Bountyhunters1",
     "player_id": 8146,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Garrett Wilson",
+    "pos": "WR",
+    "nfl_team": "NYJ",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -275,9 +437,15 @@
     "team_name": "",
     "manager": "Bountyhunters1",
     "player_id": 9997,
-    "player_name": "Lawrence Wilson",
-    "pos": "LB",
-    "nfl_team": "FA"
+    "player_name": "Zay Flowers",
+    "pos": "WR",
+    "nfl_team": "BAL",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -287,7 +455,13 @@
     "player_id": "LAC",
     "player_name": "",
     "pos": "",
-    "nfl_team": ""
+    "nfl_team": "",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -295,9 +469,15 @@
     "team_name": "The Fantasy Reaper",
     "manager": "jeancmoy21",
     "player_id": 11571,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Isaiah Davis",
+    "pos": "RB",
+    "nfl_team": "NYJ",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -305,9 +485,15 @@
     "team_name": "The Fantasy Reaper",
     "manager": "jeancmoy21",
     "player_id": 11584,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Bucky Irving",
+    "pos": "RB",
+    "nfl_team": "TBB",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -315,9 +501,15 @@
     "team_name": "The Fantasy Reaper",
     "manager": "jeancmoy21",
     "player_id": 11655,
-    "player_name": "Rex Burkhead",
+    "player_name": "Tyrone Tracy",
     "pos": "RB",
-    "nfl_team": "FA"
+    "nfl_team": "NYG",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -325,9 +517,15 @@
     "team_name": "The Fantasy Reaper",
     "manager": "jeancmoy21",
     "player_id": 2309,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Amari Cooper",
+    "pos": "WR",
+    "nfl_team": "BUF",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -335,9 +533,15 @@
     "team_name": "The Fantasy Reaper",
     "manager": "jeancmoy21",
     "player_id": 6797,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Justin Herbert",
+    "pos": "QB",
+    "nfl_team": "LAC",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -345,9 +549,15 @@
     "team_name": "The Fantasy Reaper",
     "manager": "jeancmoy21",
     "player_id": 7526,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Jaylen Waddle",
+    "pos": "WR",
+    "nfl_team": "MIA",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -355,9 +565,15 @@
     "team_name": "The Fantasy Reaper",
     "manager": "jeancmoy21",
     "player_id": 7564,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Ja'Marr Chase",
+    "pos": "WR",
+    "nfl_team": "CIN",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -365,9 +581,15 @@
     "team_name": "The Fantasy Reaper",
     "manager": "jeancmoy21",
     "player_id": 8111,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Cade Otton",
+    "pos": "TE",
+    "nfl_team": "TBB",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -375,9 +597,15 @@
     "team_name": "The Fantasy Reaper",
     "manager": "jeancmoy21",
     "player_id": 8144,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Chris Olave",
+    "pos": "WR",
+    "nfl_team": "NOS",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -385,9 +613,15 @@
     "team_name": "The Fantasy Reaper",
     "manager": "jeancmoy21",
     "player_id": 8150,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Kyren Williams",
+    "pos": "RB",
+    "nfl_team": "LAR",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -395,9 +629,15 @@
     "team_name": "The Fantasy Reaper",
     "manager": "jeancmoy21",
     "player_id": 9502,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Tank Dell",
+    "pos": "WR",
+    "nfl_team": "HOU",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -405,9 +645,15 @@
     "team_name": "The Fantasy Reaper",
     "manager": "jeancmoy21",
     "player_id": 9753,
-    "player_name": "Jordan Palmer",
-    "pos": "QB",
-    "nfl_team": "FA"
+    "player_name": "Zach Charbonnet",
+    "pos": "RB",
+    "nfl_team": "SEA",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -415,9 +661,15 @@
     "team_name": "The Fantasy Reaper",
     "manager": "jeancmoy21",
     "player_id": 9754,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Quentin Johnston",
+    "pos": "WR",
+    "nfl_team": "LAC",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -427,7 +679,13 @@
     "player_id": "ARI",
     "player_name": "",
     "pos": "",
-    "nfl_team": ""
+    "nfl_team": "",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -437,7 +695,13 @@
     "player_id": "GB",
     "player_name": "",
     "pos": "",
-    "nfl_team": ""
+    "nfl_team": "",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -445,9 +709,15 @@
     "team_name": "Big Diggs Energy",
     "manager": "davidtaylor13",
     "player_id": 10444,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Cedric Tillman",
+    "pos": "WR",
+    "nfl_team": "CLE",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -455,9 +725,15 @@
     "team_name": "Big Diggs Energy",
     "manager": "davidtaylor13",
     "player_id": 11560,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Caleb Williams",
+    "pos": "QB",
+    "nfl_team": "CHI",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -465,9 +741,15 @@
     "team_name": "Big Diggs Energy",
     "manager": "davidtaylor13",
     "player_id": 1234,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Russell Wilson",
+    "pos": "QB",
+    "nfl_team": "NYG",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -475,9 +757,15 @@
     "team_name": "Big Diggs Energy",
     "manager": "davidtaylor13",
     "player_id": 4066,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Evan Engram",
+    "pos": "TE",
+    "nfl_team": "DEN",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -485,9 +773,15 @@
     "team_name": "Big Diggs Energy",
     "manager": "davidtaylor13",
     "player_id": 4983,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "D.J. Moore",
+    "pos": "WR",
+    "nfl_team": "CHI",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -495,9 +789,15 @@
     "team_name": "Big Diggs Energy",
     "manager": "davidtaylor13",
     "player_id": 6130,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Devin Singletary",
+    "pos": "RB",
+    "nfl_team": "NYG",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -505,9 +805,15 @@
     "team_name": "Big Diggs Energy",
     "manager": "davidtaylor13",
     "player_id": 6938,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Cam Akers",
+    "pos": "RB",
+    "nfl_team": "MIN",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -515,9 +821,15 @@
     "team_name": "Big Diggs Energy",
     "manager": "davidtaylor13",
     "player_id": 8112,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Drake London",
+    "pos": "WR",
+    "nfl_team": "ATL",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -525,9 +837,15 @@
     "team_name": "Big Diggs Energy",
     "manager": "davidtaylor13",
     "player_id": 8134,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Khalil Shakir",
+    "pos": "WR",
+    "nfl_team": "BUF",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -535,9 +853,15 @@
     "team_name": "Big Diggs Energy",
     "manager": "davidtaylor13",
     "player_id": 8137,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "George Pickens",
+    "pos": "WR",
+    "nfl_team": "DAL",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -545,9 +869,15 @@
     "team_name": "Big Diggs Energy",
     "manager": "davidtaylor13",
     "player_id": 9221,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Jahmyr Gibbs",
+    "pos": "RB",
+    "nfl_team": "DET",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -555,9 +885,15 @@
     "team_name": "Big Diggs Energy",
     "manager": "davidtaylor13",
     "player_id": 9501,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Demario Douglas",
+    "pos": "WR",
+    "nfl_team": "NEP",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -565,9 +901,15 @@
     "team_name": "Big Diggs Energy",
     "manager": "davidtaylor13",
     "player_id": 9757,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Kendre Miller",
+    "pos": "RB",
+    "nfl_team": "NOS",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -577,7 +919,13 @@
     "player_id": "CHI",
     "player_name": "",
     "pos": "",
-    "nfl_team": ""
+    "nfl_team": "",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -585,9 +933,15 @@
     "team_name": "You Wanna Bang My Cousins",
     "manager": "MrBBQ",
     "player_id": 11651,
-    "player_name": "Chris Thompson",
+    "player_name": "Isaac Guerendo",
     "pos": "RB",
-    "nfl_team": "FA"
+    "nfl_team": "SFO",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -595,9 +949,15 @@
     "team_name": "You Wanna Bang My Cousins",
     "manager": "MrBBQ",
     "player_id": 1426,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "DeAndre Hopkins",
+    "pos": "WR",
+    "nfl_team": "BAL",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -605,9 +965,15 @@
     "team_name": "You Wanna Bang My Cousins",
     "manager": "MrBBQ",
     "player_id": 2374,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Tyler Lockett",
+    "pos": "WR",
+    "nfl_team": "TEN",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -615,9 +981,15 @@
     "team_name": "You Wanna Bang My Cousins",
     "manager": "MrBBQ",
     "player_id": 3198,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Derrick Henry",
+    "pos": "RB",
+    "nfl_team": "BAL",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -625,9 +997,15 @@
     "team_name": "You Wanna Bang My Cousins",
     "manager": "MrBBQ",
     "player_id": 4144,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Jonnu Smith",
+    "pos": "TE",
+    "nfl_team": "MIA",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -635,9 +1013,15 @@
     "team_name": "You Wanna Bang My Cousins",
     "manager": "MrBBQ",
     "player_id": 5846,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "DK Metcalf",
+    "pos": "WR",
+    "nfl_team": "PIT",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -645,9 +1029,15 @@
     "team_name": "You Wanna Bang My Cousins",
     "manager": "MrBBQ",
     "player_id": 5849,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Kyler Murray",
+    "pos": "QB",
+    "nfl_team": "ARI",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -655,9 +1045,15 @@
     "team_name": "You Wanna Bang My Cousins",
     "manager": "MrBBQ",
     "player_id": 6768,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Tua Tagovailoa",
+    "pos": "QB",
+    "nfl_team": "MIA",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -665,9 +1061,15 @@
     "team_name": "You Wanna Bang My Cousins",
     "manager": "MrBBQ",
     "player_id": 6794,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Justin Jefferson",
+    "pos": "WR",
+    "nfl_team": "MIN",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -675,9 +1077,15 @@
     "team_name": "You Wanna Bang My Cousins",
     "manager": "MrBBQ",
     "player_id": 7021,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Rico Dowdle",
+    "pos": "RB",
+    "nfl_team": "CAR",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -685,9 +1093,15 @@
     "team_name": "You Wanna Bang My Cousins",
     "manager": "MrBBQ",
     "player_id": 8130,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Trey McBride",
+    "pos": "TE",
+    "nfl_team": "ARI",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -695,9 +1109,15 @@
     "team_name": "You Wanna Bang My Cousins",
     "manager": "MrBBQ",
     "player_id": 8136,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Rachaad White",
+    "pos": "RB",
+    "nfl_team": "TBB",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -705,9 +1125,15 @@
     "team_name": "You Wanna Bang My Cousins",
     "manager": "MrBBQ",
     "player_id": 9224,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Chase Brown",
+    "pos": "RB",
+    "nfl_team": "CIN",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -717,7 +1143,13 @@
     "player_id": "MIA",
     "player_name": "",
     "pos": "",
-    "nfl_team": ""
+    "nfl_team": "",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -725,9 +1157,15 @@
     "team_name": "OmahaPM18",
     "manager": "gregrr88",
     "player_id": 10859,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Sam LaPorta",
+    "pos": "TE",
+    "nfl_team": "DET",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -735,9 +1173,15 @@
     "team_name": "OmahaPM18",
     "manager": "gregrr88",
     "player_id": 11626,
-    "player_name": "Justin Hunter",
+    "player_name": "Xavier Legette",
     "pos": "WR",
-    "nfl_team": "FA"
+    "nfl_team": "CAR",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -745,9 +1189,15 @@
     "team_name": "OmahaPM18",
     "manager": "gregrr88",
     "player_id": 1479,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Keenan Allen",
+    "pos": "WR",
+    "nfl_team": "CHI",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -755,9 +1205,15 @@
     "team_name": "OmahaPM18",
     "manager": "gregrr88",
     "player_id": 1689,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Adam Thielen",
+    "pos": "WR",
+    "nfl_team": "CAR",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -765,9 +1221,15 @@
     "team_name": "OmahaPM18",
     "manager": "gregrr88",
     "player_id": 2216,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Mike Evans",
+    "pos": "WR",
+    "nfl_team": "TBB",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -775,9 +1237,15 @@
     "team_name": "OmahaPM18",
     "manager": "gregrr88",
     "player_id": 4943,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Sam Darnold",
+    "pos": "QB",
+    "nfl_team": "SEA",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -785,9 +1253,15 @@
     "team_name": "OmahaPM18",
     "manager": "gregrr88",
     "player_id": 4984,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Josh Allen",
+    "pos": "QB",
+    "nfl_team": "BUF",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -795,9 +1269,15 @@
     "team_name": "OmahaPM18",
     "manager": "gregrr88",
     "player_id": 5045,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Courtland Sutton",
+    "pos": "WR",
+    "nfl_team": "DEN",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -805,9 +1285,15 @@
     "team_name": "OmahaPM18",
     "manager": "gregrr88",
     "player_id": 5844,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "T.J. Hockenson",
+    "pos": "TE",
+    "nfl_team": "MIN",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -815,9 +1301,15 @@
     "team_name": "OmahaPM18",
     "manager": "gregrr88",
     "player_id": 6943,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Gabriel Davis",
+    "pos": "WR",
+    "nfl_team": "FA",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -825,9 +1317,15 @@
     "team_name": "OmahaPM18",
     "manager": "gregrr88",
     "player_id": 7528,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Najee Harris",
+    "pos": "RB",
+    "nfl_team": "LAC",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -835,9 +1333,15 @@
     "team_name": "OmahaPM18",
     "manager": "gregrr88",
     "player_id": 7543,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Travis Etienne",
+    "pos": "RB",
+    "nfl_team": "JAC",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -845,9 +1349,15 @@
     "team_name": "OmahaPM18",
     "manager": "gregrr88",
     "player_id": 7594,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Chuba Hubbard",
+    "pos": "RB",
+    "nfl_team": "CAR",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -855,9 +1365,15 @@
     "team_name": "OmahaPM18",
     "manager": "gregrr88",
     "player_id": 9756,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Jordan Addison",
+    "pos": "WR",
+    "nfl_team": "MIN",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -867,7 +1383,13 @@
     "player_id": "BUF",
     "player_name": "",
     "pos": "",
-    "nfl_team": ""
+    "nfl_team": "",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -875,9 +1397,15 @@
     "team_name": "Robzilla ?",
     "manager": "KingRobzilla",
     "player_id": 10229,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Rashee Rice",
+    "pos": "WR",
+    "nfl_team": "KCC",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -885,9 +1413,15 @@
     "team_name": "Robzilla ?",
     "manager": "KingRobzilla",
     "player_id": 11563,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Bo Nix",
+    "pos": "QB",
+    "nfl_team": "DEN",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -895,9 +1429,15 @@
     "team_name": "Robzilla ?",
     "manager": "KingRobzilla",
     "player_id": 11579,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Audric Estime",
+    "pos": "RB",
+    "nfl_team": "DEN",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -905,9 +1445,15 @@
     "team_name": "Robzilla ?",
     "manager": "KingRobzilla",
     "player_id": 11581,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "MarShawn Lloyd",
+    "pos": "RB",
+    "nfl_team": "GBP",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -915,9 +1461,15 @@
     "team_name": "Robzilla ?",
     "manager": "KingRobzilla",
     "player_id": 11618,
-    "player_name": "Corey Fuller",
+    "player_name": "Jalen McMillan",
     "pos": "WR",
-    "nfl_team": "NOS"
+    "nfl_team": "TBB",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -925,9 +1477,15 @@
     "team_name": "Robzilla ?",
     "manager": "KingRobzilla",
     "player_id": 4018,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Joe Mixon",
+    "pos": "RB",
+    "nfl_team": "HOU",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -935,9 +1493,15 @@
     "team_name": "Robzilla ?",
     "manager": "KingRobzilla",
     "player_id": 5987,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Alexander Mattison",
+    "pos": "RB",
+    "nfl_team": "MIA",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -945,9 +1509,15 @@
     "team_name": "Robzilla ?",
     "manager": "KingRobzilla",
     "player_id": 8121,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Romeo Doubs",
+    "pos": "WR",
+    "nfl_team": "GBP",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -955,9 +1525,15 @@
     "team_name": "Robzilla ?",
     "manager": "KingRobzilla",
     "player_id": 8210,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Chigoziem Okonkwo",
+    "pos": "TE",
+    "nfl_team": "TEN",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -965,9 +1541,15 @@
     "team_name": "Robzilla ?",
     "manager": "KingRobzilla",
     "player_id": 9493,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Puka Nacua",
+    "pos": "WR",
+    "nfl_team": "LAR",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -975,9 +1557,15 @@
     "team_name": "Robzilla ?",
     "manager": "KingRobzilla",
     "player_id": 9509,
-    "player_name": "Philip Rivers",
-    "pos": "QB",
-    "nfl_team": "FA"
+    "player_name": "Bijan Robinson",
+    "pos": "RB",
+    "nfl_team": "ATL",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -987,7 +1575,13 @@
     "player_id": "SEA",
     "player_name": "",
     "pos": "",
-    "nfl_team": ""
+    "nfl_team": "",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -995,9 +1589,15 @@
     "team_name": "Willie Beamen",
     "manager": "DaWanted",
     "player_id": 11631,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Brian Thomas Jr.",
+    "pos": "WR",
+    "nfl_team": "JAC",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -1005,9 +1605,15 @@
     "team_name": "Willie Beamen",
     "manager": "DaWanted",
     "player_id": 4039,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Cooper Kupp",
+    "pos": "WR",
+    "nfl_team": "SEA",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -1015,9 +1621,15 @@
     "team_name": "Willie Beamen",
     "manager": "DaWanted",
     "player_id": 4137,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "James Conner",
+    "pos": "RB",
+    "nfl_team": "ARI",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -1025,9 +1637,15 @@
     "team_name": "Willie Beamen",
     "manager": "DaWanted",
     "player_id": 4217,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "George Kittle",
+    "pos": "TE",
+    "nfl_team": "SFO",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -1035,9 +1653,15 @@
     "team_name": "Willie Beamen",
     "manager": "DaWanted",
     "player_id": 5022,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Dallas Goedert",
+    "pos": "TE",
+    "nfl_team": "PHI",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -1045,9 +1669,15 @@
     "team_name": "Willie Beamen",
     "manager": "DaWanted",
     "player_id": 5859,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "A.J. Brown",
+    "pos": "WR",
+    "nfl_team": "PHI",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -1055,9 +1685,15 @@
     "team_name": "Willie Beamen",
     "manager": "DaWanted",
     "player_id": 6904,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Jalen Hurts",
+    "pos": "QB",
+    "nfl_team": "PHI",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -1065,9 +1701,15 @@
     "team_name": "Willie Beamen",
     "manager": "DaWanted",
     "player_id": 7049,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Jauan Jennings",
+    "pos": "WR",
+    "nfl_team": "SFO",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -1075,9 +1717,15 @@
     "team_name": "Willie Beamen",
     "manager": "DaWanted",
     "player_id": 7090,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Darnell Mooney",
+    "pos": "WR",
+    "nfl_team": "ATL",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -1085,9 +1733,15 @@
     "team_name": "Willie Beamen",
     "manager": "DaWanted",
     "player_id": 8143,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Jerome Ford",
+    "pos": "RB",
+    "nfl_team": "CLE",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -1095,9 +1749,15 @@
     "team_name": "Willie Beamen",
     "manager": "DaWanted",
     "player_id": 8151,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Kenneth Walker III",
+    "pos": "RB",
+    "nfl_team": "SEA",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -1105,9 +1765,15 @@
     "team_name": "Willie Beamen",
     "manager": "DaWanted",
     "player_id": 8154,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Brian Robinson",
+    "pos": "RB",
+    "nfl_team": "WAS",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -1115,9 +1781,15 @@
     "team_name": "Willie Beamen",
     "manager": "DaWanted",
     "player_id": 9500,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Josh Downs",
+    "pos": "WR",
+    "nfl_team": "IND",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -1127,7 +1799,13 @@
     "player_id": "JAX",
     "player_name": "",
     "pos": "",
-    "nfl_team": ""
+    "nfl_team": "",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -1135,9 +1813,15 @@
     "team_name": "Taylor Park Boys",
     "manager": "permanentwaves",
     "player_id": 11624,
-    "player_name": "Aaron Dobson",
+    "player_name": "Xavier Worthy",
     "pos": "WR",
-    "nfl_team": "FA"
+    "nfl_team": "KCC",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -1145,9 +1829,15 @@
     "team_name": "Taylor Park Boys",
     "manager": "permanentwaves",
     "player_id": 11647,
-    "player_name": "Mike James",
+    "player_name": "Kimani Vidal",
     "pos": "RB",
-    "nfl_team": "DET"
+    "nfl_team": "LAC",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -1155,9 +1845,15 @@
     "team_name": "Taylor Park Boys",
     "manager": "permanentwaves",
     "player_id": 2133,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Davante Adams",
+    "pos": "WR",
+    "nfl_team": "LAR",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -1165,9 +1861,15 @@
     "team_name": "Taylor Park Boys",
     "manager": "permanentwaves",
     "player_id": 4892,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Baker Mayfield",
+    "pos": "QB",
+    "nfl_team": "TBB",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -1175,9 +1877,15 @@
     "team_name": "Taylor Park Boys",
     "manager": "permanentwaves",
     "player_id": 5012,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Mark Andrews",
+    "pos": "TE",
+    "nfl_team": "BAL",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -1185,9 +1893,15 @@
     "team_name": "Taylor Park Boys",
     "manager": "permanentwaves",
     "player_id": 6801,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Tee Higgins",
+    "pos": "WR",
+    "nfl_team": "CIN",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -1195,9 +1909,15 @@
     "team_name": "Taylor Park Boys",
     "manager": "permanentwaves",
     "player_id": 6813,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Jonathan Taylor",
+    "pos": "RB",
+    "nfl_team": "IND",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -1205,9 +1925,15 @@
     "team_name": "Taylor Park Boys",
     "manager": "permanentwaves",
     "player_id": 7547,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Amon-Ra St. Brown",
+    "pos": "WR",
+    "nfl_team": "DET",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -1215,9 +1941,15 @@
     "team_name": "Taylor Park Boys",
     "manager": "permanentwaves",
     "player_id": 7611,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Rhamondre Stevenson",
+    "pos": "RB",
+    "nfl_team": "NEP",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -1225,9 +1957,15 @@
     "team_name": "Taylor Park Boys",
     "manager": "permanentwaves",
     "player_id": 8138,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "James Cook",
+    "pos": "RB",
+    "nfl_team": "BUF",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -1235,9 +1973,15 @@
     "team_name": "Taylor Park Boys",
     "manager": "permanentwaves",
     "player_id": 9225,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Tank Bigsby",
+    "pos": "RB",
+    "nfl_team": "JAC",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -1245,9 +1989,15 @@
     "team_name": "Taylor Park Boys",
     "manager": "permanentwaves",
     "player_id": 9226,
-    "player_name": "Gary Barnidge",
-    "pos": "TE",
-    "nfl_team": "FA"
+    "player_name": "De'Von Achane",
+    "pos": "RB",
+    "nfl_team": "MIA",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -1257,7 +2007,13 @@
     "player_id": "IND",
     "player_name": "",
     "pos": "",
-    "nfl_team": ""
+    "nfl_team": "",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -1265,9 +2021,15 @@
     "team_name": "Pats nation",
     "manager": "emile1414",
     "player_id": 11583,
-    "player_name": "Mike Brown",
-    "pos": "WR",
-    "nfl_team": "FA"
+    "player_name": "Jonathon Brooks",
+    "pos": "RB",
+    "nfl_team": "CAR",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -1275,9 +2037,15 @@
     "team_name": "Pats nation",
     "manager": "emile1414",
     "player_id": 11604,
-    "player_name": "Ryan Swope",
-    "pos": "WR",
-    "nfl_team": "FA"
+    "player_name": "Brock Bowers",
+    "pos": "TE",
+    "nfl_team": "LVR",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -1285,9 +2053,15 @@
     "team_name": "Pats nation",
     "manager": "emile1414",
     "player_id": 11620,
-    "player_name": "Quinton Patton",
+    "player_name": "Rome Odunze",
     "pos": "WR",
-    "nfl_team": "FA"
+    "nfl_team": "CHI",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -1295,9 +2069,15 @@
     "team_name": "Pats nation",
     "manager": "emile1414",
     "player_id": 3163,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Jared Goff",
+    "pos": "QB",
+    "nfl_team": "DET",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -1305,9 +2085,15 @@
     "team_name": "Pats nation",
     "manager": "emile1414",
     "player_id": 3321,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Tyreek Hill",
+    "pos": "WR",
+    "nfl_team": "MIA",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -1315,9 +2101,15 @@
     "team_name": "Pats nation",
     "manager": "emile1414",
     "player_id": 4034,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Christian McCaffrey",
+    "pos": "RB",
+    "nfl_team": "SFO",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -1325,9 +2117,15 @@
     "team_name": "Pats nation",
     "manager": "emile1414",
     "player_id": 4046,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Patrick Mahomes",
+    "pos": "QB",
+    "nfl_team": "KCC",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -1335,9 +2133,15 @@
     "team_name": "Pats nation",
     "manager": "emile1414",
     "player_id": 4098,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Kareem Hunt",
+    "pos": "RB",
+    "nfl_team": "KCC",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -1345,9 +2149,15 @@
     "team_name": "Pats nation",
     "manager": "emile1414",
     "player_id": 4199,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Aaron Jones",
+    "pos": "RB",
+    "nfl_team": "MIN",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -1355,9 +2165,15 @@
     "team_name": "Pats nation",
     "manager": "emile1414",
     "player_id": 4663,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Austin Ekeler",
+    "pos": "RB",
+    "nfl_team": "WAS",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -1365,9 +2181,15 @@
     "team_name": "Pats nation",
     "manager": "emile1414",
     "player_id": 4981,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Calvin Ridley",
+    "pos": "WR",
+    "nfl_team": "TEN",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -1375,9 +2197,15 @@
     "team_name": "Pats nation",
     "manager": "emile1414",
     "player_id": 4988,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Nick Chubb",
+    "pos": "RB",
+    "nfl_team": "FA",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -1385,9 +2213,15 @@
     "team_name": "Pats nation",
     "manager": "emile1414",
     "player_id": 6786,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "CeeDee Lamb",
+    "pos": "WR",
+    "nfl_team": "DAL",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -1395,9 +2229,15 @@
     "team_name": "Pats nation",
     "manager": "emile1414",
     "player_id": 7525,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "DeVonta Smith",
+    "pos": "WR",
+    "nfl_team": "PHI",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -1405,9 +2245,15 @@
     "team_name": "Pats nation",
     "manager": "emile1414",
     "player_id": 7571,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Rashod Bateman",
+    "pos": "WR",
+    "nfl_team": "BAL",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -1417,7 +2263,13 @@
     "player_id": "PHI",
     "player_name": "",
     "pos": "",
-    "nfl_team": ""
+    "nfl_team": "",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -1425,9 +2277,15 @@
     "team_name": "Necessary Roughness ?",
     "manager": "Pettrochy",
     "player_id": 11628,
-    "player_name": "Denard Robinson",
-    "pos": "RB",
-    "nfl_team": "FA"
+    "player_name": "Marvin Harrison Jr.",
+    "pos": "WR",
+    "nfl_team": "ARI",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -1435,9 +2293,15 @@
     "team_name": "Necessary Roughness ?",
     "manager": "Pettrochy",
     "player_id": 2449,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Stefon Diggs",
+    "pos": "WR",
+    "nfl_team": "NEP",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -1445,9 +2309,15 @@
     "team_name": "Necessary Roughness ?",
     "manager": "Pettrochy",
     "player_id": 2749,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Raheem Mostert",
+    "pos": "RB",
+    "nfl_team": "LVR",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -1455,9 +2325,15 @@
     "team_name": "Necessary Roughness ?",
     "manager": "Pettrochy",
     "player_id": 4881,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Lamar Jackson",
+    "pos": "QB",
+    "nfl_team": "BAL",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -1465,9 +2341,15 @@
     "team_name": "Necessary Roughness ?",
     "manager": "Pettrochy",
     "player_id": 5892,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "David Montgomery",
+    "pos": "RB",
+    "nfl_team": "DET",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -1475,9 +2357,15 @@
     "team_name": "Necessary Roughness ?",
     "manager": "Pettrochy",
     "player_id": 5967,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Tony Pollard",
+    "pos": "RB",
+    "nfl_team": "TEN",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -1485,9 +2373,15 @@
     "team_name": "Necessary Roughness ?",
     "manager": "Pettrochy",
     "player_id": 5995,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Justice Hill",
+    "pos": "RB",
+    "nfl_team": "BAL",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -1495,9 +2389,15 @@
     "team_name": "Necessary Roughness ?",
     "manager": "Pettrochy",
     "player_id": 6149,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Darius Slayton",
+    "pos": "WR",
+    "nfl_team": "NYG",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -1505,9 +2405,15 @@
     "team_name": "Necessary Roughness ?",
     "manager": "Pettrochy",
     "player_id": 6783,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Jerry Jeudy",
+    "pos": "WR",
+    "nfl_team": "CLE",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -1515,9 +2421,15 @@
     "team_name": "Necessary Roughness ?",
     "manager": "Pettrochy",
     "player_id": 6790,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "D'Andre Swift",
+    "pos": "RB",
+    "nfl_team": "CHI",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -1525,9 +2437,15 @@
     "team_name": "Necessary Roughness ?",
     "manager": "Pettrochy",
     "player_id": 7496,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Nick Westbrook-Ikhine",
+    "pos": "WR",
+    "nfl_team": "MIA",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -1535,9 +2453,15 @@
     "team_name": "Necessary Roughness ?",
     "manager": "Pettrochy",
     "player_id": 7553,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Kyle Pitts",
+    "pos": "TE",
+    "nfl_team": "ATL",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -1545,9 +2469,15 @@
     "team_name": "Necessary Roughness ?",
     "manager": "Pettrochy",
     "player_id": 7596,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Elijah Moore",
+    "pos": "WR",
+    "nfl_team": "BUF",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -1555,9 +2485,15 @@
     "team_name": "Necessary Roughness ?",
     "manager": "Pettrochy",
     "player_id": 8167,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Christian Watson",
+    "pos": "WR",
+    "nfl_team": "GBP",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -1565,9 +2501,15 @@
     "team_name": "Necessary Roughness ?",
     "manager": "Pettrochy",
     "player_id": 8205,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Isiah Pacheco",
+    "pos": "RB",
+    "nfl_team": "KCC",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -1575,9 +2517,15 @@
     "team_name": "Necessary Roughness ?",
     "manager": "Pettrochy",
     "player_id": 9508,
-    "player_name": "Phil Dawson",
-    "pos": "PK",
-    "nfl_team": "FA"
+    "player_name": "Tyjae Spears",
+    "pos": "RB",
+    "nfl_team": "TEN",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -1587,7 +2535,13 @@
     "player_id": "KC",
     "player_name": "",
     "pos": "",
-    "nfl_team": ""
+    "nfl_team": "",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -1595,9 +2549,15 @@
     "team_name": "The Breece is Right",
     "manager": "FluentCrab",
     "player_id": 10222,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Jayden Reed",
+    "pos": "WR",
+    "nfl_team": "GBP",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -1605,9 +2565,15 @@
     "team_name": "The Breece is Right",
     "manager": "FluentCrab",
     "player_id": 10236,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Dalton Kincaid",
+    "pos": "TE",
+    "nfl_team": "BUF",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -1615,9 +2581,15 @@
     "team_name": "The Breece is Right",
     "manager": "FluentCrab",
     "player_id": 11635,
-    "player_name": "Cierre Wood",
-    "pos": "RB",
-    "nfl_team": "BUF"
+    "player_name": "Ladd McConkey",
+    "pos": "WR",
+    "nfl_team": "LAC",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -1625,9 +2597,15 @@
     "team_name": "The Breece is Right",
     "manager": "FluentCrab",
     "player_id": 11637,
-    "player_name": "Joseph Randle",
-    "pos": "RB",
-    "nfl_team": "FA"
+    "player_name": "Keon Coleman",
+    "pos": "WR",
+    "nfl_team": "BUF",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -1635,9 +2613,15 @@
     "team_name": "The Breece is Right",
     "manager": "FluentCrab",
     "player_id": 3200,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Sterling Shepard",
+    "pos": "WR",
+    "nfl_team": "TBB",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -1645,9 +2629,15 @@
     "team_name": "The Breece is Right",
     "manager": "FluentCrab",
     "player_id": 5850,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Josh Jacobs",
+    "pos": "RB",
+    "nfl_team": "GBP",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -1655,9 +2645,15 @@
     "team_name": "The Breece is Right",
     "manager": "FluentCrab",
     "player_id": 7002,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Juwan Johnson",
+    "pos": "TE",
+    "nfl_team": "NOS",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -1665,9 +2661,15 @@
     "team_name": "The Breece is Right",
     "manager": "FluentCrab",
     "player_id": 7569,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Nico Collins",
+    "pos": "WR",
+    "nfl_team": "HOU",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -1675,9 +2677,15 @@
     "team_name": "The Breece is Right",
     "manager": "FluentCrab",
     "player_id": 8132,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Tyler Allgeier",
+    "pos": "RB",
+    "nfl_team": "ATL",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -1685,9 +2693,15 @@
     "team_name": "The Breece is Right",
     "manager": "FluentCrab",
     "player_id": 8148,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Jameson Williams",
+    "pos": "WR",
+    "nfl_team": "DET",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -1695,9 +2709,15 @@
     "team_name": "The Breece is Right",
     "manager": "FluentCrab",
     "player_id": 8155,
-    "player_name": "",
-    "pos": "",
-    "nfl_team": ""
+    "player_name": "Breece Hall",
+    "pos": "RB",
+    "nfl_team": "NYJ",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -1705,9 +2725,15 @@
     "team_name": "The Breece is Right",
     "manager": "FluentCrab",
     "player_id": 9758,
-    "player_name": "Stephen McGee",
+    "player_name": "C.J. Stroud",
     "pos": "QB",
-    "nfl_team": "FA"
+    "nfl_team": "HOU",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -1715,9 +2741,15 @@
     "team_name": "The Breece is Right",
     "manager": "FluentCrab",
     "player_id": 9999,
-    "player_name": "Chris White",
-    "pos": "LB",
-    "nfl_team": "NEP"
+    "player_name": "Will Levis",
+    "pos": "QB",
+    "nfl_team": "TEN",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   },
   {
     "league_id": "1182360976637104128",
@@ -1727,6 +2759,12 @@
     "player_id": "TB",
     "player_name": "",
     "pos": "",
-    "nfl_team": ""
+    "nfl_team": "",
+    "ktc_value_1qb": "",
+    "ktc_value_sf": "",
+    "ecr_1qb": "",
+    "ecr_2qb": "",
+    "ecr_pos": "",
+    "age": ""
   }
 ]
