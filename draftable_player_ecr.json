@@ -2,2269 +2,2332 @@
   {
     "player": "Ja'Marr Chase",
     "age": "25.6",
-    "ecr_1qb": "1.2",
-    "ecr_2qb": "5.6",
-    "ecr_pos": "1.3"
+    "ecr_1qb": "1.1",
+    "ecr_2qb": "6.2",
+    "ecr_pos": "1"
   },
   {
     "player": "Justin Jefferson",
     "age": "26.3",
     "ecr_1qb": "2.8",
-    "ecr_2qb": "5.6",
+    "ecr_2qb": "6",
     "ecr_pos": "2.7"
   },
   {
     "player": "CeeDee Lamb",
     "age": "26.5",
-    "ecr_1qb": "4",
-    "ecr_2qb": "9.4",
-    "ecr_pos": "4.3"
+    "ecr_1qb": "3.8",
+    "ecr_2qb": "9.8",
+    "ecr_pos": "4"
   },
   {
     "player": "Bijan Robinson",
-    "age": "23.6",
-    "ecr_1qb": "4.6",
-    "ecr_2qb": "11.6",
+    "age": "23.7",
+    "ecr_1qb": "4.5",
+    "ecr_2qb": "12.2",
     "ecr_pos": "1"
   },
   {
     "player": "Malik Nabers",
-    "age": "22.1",
-    "ecr_1qb": "6.4",
-    "ecr_2qb": "14",
-    "ecr_pos": "2"
+    "age": "22.2",
+    "ecr_1qb": "7",
+    "ecr_2qb": "16.6",
+    "ecr_pos": "3"
   },
   {
     "player": "Jahmyr Gibbs",
     "age": "23.5",
-    "ecr_1qb": "6.8",
-    "ecr_2qb": "15.4",
-    "ecr_pos": "2"
+    "ecr_1qb": "7",
+    "ecr_2qb": "17.1",
+    "ecr_pos": "2.2"
   },
   {
     "player": "Puka Nacua",
     "age": "24.3",
-    "ecr_1qb": "7.8",
-    "ecr_2qb": "15.6",
+    "ecr_1qb": "8.2",
+    "ecr_2qb": "17.3",
     "ecr_pos": "4.7"
-  },
-  {
-    "player": "Ashton Jeanty",
-    "age": "21.8",
-    "ecr_1qb": "8.3",
-    "ecr_2qb": "15.7",
-    "ecr_pos": "3"
   },
   {
     "player": "Amon-Ra St. Brown",
     "age": "25.9",
-    "ecr_1qb": "9.2",
-    "ecr_2qb": "16",
-    "ecr_pos": "7.3"
+    "ecr_1qb": "8.8",
+    "ecr_2qb": "17.3",
+    "ecr_pos": "7.7"
   },
   {
-    "player": "Brian Thomas Jr.",
-    "age": "22.9",
-    "ecr_1qb": "12",
-    "ecr_2qb": "21",
-    "ecr_pos": "7.3"
+    "player": "Ashton Jeanty",
+    "age": "21.8",
+    "ecr_1qb": "10",
+    "ecr_2qb": "20.8",
+    "ecr_pos": "3.6"
   },
   {
     "player": "Jaxon Smith-Njigba",
     "age": "23.6",
-    "ecr_1qb": "13.3",
-    "ecr_2qb": "23",
-    "ecr_pos": "8.7"
+    "ecr_1qb": "12.2",
+    "ecr_2qb": "23.6",
+    "ecr_pos": "7.3"
+  },
+  {
+    "player": "Brian Thomas Jr.",
+    "age": "23",
+    "ecr_1qb": "12.6",
+    "ecr_2qb": "24.6",
+    "ecr_pos": "8.3"
   },
   {
     "player": "Drake London",
     "age": "24.2",
-    "ecr_1qb": "15",
-    "ecr_2qb": "23.8",
-    "ecr_pos": "7.7"
-  },
-  {
-    "player": "Omarion Hampton",
-    "age": "22.5",
-    "ecr_1qb": "15.3",
-    "ecr_2qb": "25.7",
-    "ecr_pos": "5.7"
+    "ecr_1qb": "16",
+    "ecr_2qb": "27",
+    "ecr_pos": "9"
   },
   {
     "player": "Breece Hall",
     "age": "24.3",
-    "ecr_1qb": "15.8",
-    "ecr_2qb": "26.8",
-    "ecr_pos": "7.7"
+    "ecr_1qb": "17",
+    "ecr_2qb": "28.5",
+    "ecr_pos": "8.6"
   },
   {
     "player": "Josh Allen",
     "age": "29.3",
-    "ecr_1qb": "16.8",
+    "ecr_1qb": "17.4",
     "ecr_2qb": "1.4",
-    "ecr_pos": "1.7"
-  },
-  {
-    "player": "Garrett Wilson",
-    "age": "25.2",
-    "ecr_1qb": "18.4",
-    "ecr_2qb": "28.6",
-    "ecr_pos": "14"
-  },
-  {
-    "player": "Marvin Harrison Jr.",
-    "age": "23.1",
-    "ecr_1qb": "19.2",
-    "ecr_2qb": "27.6",
-    "ecr_pos": "15"
-  },
-  {
-    "player": "Ladd McConkey",
-    "age": "23.9",
-    "ecr_1qb": "19.3",
-    "ecr_2qb": "30.7",
-    "ecr_pos": "12"
+    "ecr_pos": "2"
   },
   {
     "player": "Nico Collins",
     "age": "26.5",
-    "ecr_1qb": "19.4",
-    "ecr_2qb": "31.2",
-    "ecr_pos": "9.3"
+    "ecr_1qb": "18.6",
+    "ecr_2qb": "31.6",
+    "ecr_pos": "7.7"
+  },
+  {
+    "player": "Garrett Wilson",
+    "age": "25.2",
+    "ecr_1qb": "18.6",
+    "ecr_2qb": "29.8",
+    "ecr_pos": "13.7"
+  },
+  {
+    "player": "Marvin Harrison Jr.",
+    "age": "23.1",
+    "ecr_1qb": "20.4",
+    "ecr_2qb": "29.2",
+    "ecr_pos": "16.3"
   },
   {
     "player": "A.J. Brown",
     "age": "28.2",
-    "ecr_1qb": "22.2",
-    "ecr_2qb": "33.8",
-    "ecr_pos": "16"
-  },
-  {
-    "player": "Brock Bowers",
-    "age": "22.8",
-    "ecr_1qb": "22.8",
-    "ecr_2qb": "31.8",
-    "ecr_pos": "1"
-  },
-  {
-    "player": "De'Von Achane",
-    "age": "23.9",
-    "ecr_1qb": "22.8",
-    "ecr_2qb": "33.2",
-    "ecr_pos": "5.3"
-  },
-  {
-    "player": "Tetairoa McMillan",
-    "age": "22.5",
-    "ecr_1qb": "24.7",
-    "ecr_2qb": "36.3",
-    "ecr_pos": "13.7"
+    "ecr_1qb": "20.5",
+    "ecr_2qb": "32.9",
+    "ecr_pos": "13.3"
   },
   {
     "player": "Jonathan Taylor",
     "age": "26.7",
-    "ecr_1qb": "24.8",
-    "ecr_2qb": "38.6",
-    "ecr_pos": "9"
+    "ecr_1qb": "20.8",
+    "ecr_2qb": "34.2",
+    "ecr_pos": "7"
+  },
+  {
+    "player": "Ladd McConkey",
+    "age": "23.9",
+    "ecr_1qb": "21.8",
+    "ecr_2qb": "34.8",
+    "ecr_pos": "13"
+  },
+  {
+    "player": "Brock Bowers",
+    "age": "22.8",
+    "ecr_1qb": "23.9",
+    "ecr_2qb": "34.6",
+    "ecr_pos": "1"
+  },
+  {
+    "player": "Tetairoa McMillan",
+    "age": "22.5",
+    "ecr_1qb": "24.6",
+    "ecr_2qb": "37.4",
+    "ecr_pos": "12.7"
   },
   {
     "player": "Saquon Barkley",
     "age": "28.6",
-    "ecr_1qb": "26",
-    "ecr_2qb": "25.3",
-    "ecr_pos": "4.7"
+    "ecr_1qb": "24.9",
+    "ecr_2qb": "25.2",
+    "ecr_pos": "4.2"
   },
   {
     "player": "Bucky Irving",
     "age": "23.1",
-    "ecr_1qb": "26.3",
-    "ecr_2qb": "38",
-    "ecr_pos": "9.3"
+    "ecr_1qb": "25",
+    "ecr_2qb": "37.6",
+    "ecr_pos": "9.2"
   },
   {
-    "player": "Trey McBride",
-    "age": "25.8",
-    "ecr_1qb": "26.4",
-    "ecr_2qb": "36.8",
-    "ecr_pos": "2"
+    "player": "De'Von Achane",
+    "age": "24",
+    "ecr_1qb": "25.4",
+    "ecr_2qb": "36.6",
+    "ecr_pos": "6.8"
   },
   {
-    "player": "Emeka Egbuka",
-    "age": "22.9",
-    "ecr_1qb": "26.7",
-    "ecr_2qb": "37.7",
-    "ecr_pos": "15.7"
-  },
-  {
-    "player": "TreVeyon Henderson",
-    "age": "22.9",
-    "ecr_1qb": "27",
-    "ecr_2qb": "38",
-    "ecr_pos": "8.7"
-  },
-  {
-    "player": "Rome Odunze",
-    "age": "23.3",
-    "ecr_1qb": "27.2",
-    "ecr_2qb": "40.4",
-    "ecr_pos": "16.7"
+    "player": "Omarion Hampton",
+    "age": "22.5",
+    "ecr_1qb": "26.8",
+    "ecr_2qb": "37.8",
+    "ecr_pos": "9.4"
   },
   {
     "player": "Lamar Jackson",
     "age": "28.7",
-    "ecr_1qb": "28",
-    "ecr_2qb": "4",
+    "ecr_1qb": "26.8",
+    "ecr_2qb": "3.9",
+    "ecr_pos": "1.7"
+  },
+  {
+    "player": "Rome Odunze",
+    "age": "23.3",
+    "ecr_1qb": "27.1",
+    "ecr_2qb": "39.7",
+    "ecr_pos": "17.3"
+  },
+  {
+    "player": "Trey McBride",
+    "age": "25.8",
+    "ecr_1qb": "28.1",
+    "ecr_2qb": "39.1",
     "ecr_pos": "2"
   },
   {
-    "player": "Sam LaPorta",
-    "age": "24.7",
-    "ecr_1qb": "29.2",
-    "ecr_2qb": "40.4",
-    "ecr_pos": "3.7"
-  },
-  {
-    "player": "Travis Hunter",
-    "age": "22.3",
-    "ecr_1qb": "31.3",
-    "ecr_2qb": "42.3",
-    "ecr_pos": "17.7"
-  },
-  {
-    "player": "Patrick Mahomes II",
-    "age": "30",
-    "ecr_1qb": "32.7",
-    "ecr_2qb": "8.4",
-    "ecr_pos": "5.7"
+    "player": "Emeka Egbuka",
+    "age": "23",
+    "ecr_1qb": "29.4",
+    "ecr_2qb": "41.4",
+    "ecr_pos": "17"
   },
   {
     "player": "Rashee Rice",
     "age": "25.4",
-    "ecr_1qb": "33.3",
-    "ecr_2qb": "45.7",
-    "ecr_pos": "18.7"
+    "ecr_1qb": "29.4",
+    "ecr_2qb": "42.6",
+    "ecr_pos": "14.7"
   },
   {
-    "player": "Tee Higgins",
-    "age": "26.7",
-    "ecr_1qb": "36.4",
-    "ecr_2qb": "39.3",
-    "ecr_pos": "16"
-  },
-  {
-    "player": "Jaylen Waddle",
-    "age": "26.8",
-    "ecr_1qb": "36.4",
-    "ecr_2qb": "50.6",
-    "ecr_pos": "25"
-  },
-  {
-    "player": "Christian McCaffrey",
-    "age": "29.3",
-    "ecr_1qb": "36.4",
-    "ecr_2qb": "49.2",
-    "ecr_pos": "16"
-  },
-  {
-    "player": "Kenneth Walker III",
-    "age": "24.9",
-    "ecr_1qb": "37.3",
-    "ecr_2qb": "52",
-    "ecr_pos": "11.7"
+    "player": "Sam LaPorta",
+    "age": "24.7",
+    "ecr_1qb": "32.3",
+    "ecr_2qb": "43.5",
+    "ecr_pos": "4.3"
   },
   {
     "player": "Jayden Daniels",
     "age": "24.8",
-    "ecr_1qb": "37.5",
-    "ecr_2qb": "12.8",
+    "ecr_1qb": "32.5",
+    "ecr_2qb": "12.7",
     "ecr_pos": "2.3"
+  },
+  {
+    "player": "Christian McCaffrey",
+    "age": "29.3",
+    "ecr_1qb": "33.6",
+    "ecr_2qb": "46.1",
+    "ecr_pos": "14.4"
+  },
+  {
+    "player": "Patrick Mahomes II",
+    "age": "30",
+    "ecr_1qb": "33.6",
+    "ecr_2qb": "6.6",
+    "ecr_pos": "6.7"
+  },
+  {
+    "player": "TreVeyon Henderson",
+    "age": "22.9",
+    "ecr_1qb": "35.8",
+    "ecr_2qb": "47",
+    "ecr_pos": "11"
   },
   {
     "player": "Jalen Hurts",
     "age": "27.1",
-    "ecr_1qb": "38.6",
-    "ecr_2qb": "7.4",
+    "ecr_1qb": "36.2",
+    "ecr_2qb": "6.9",
     "ecr_pos": "4.3"
+  },
+  {
+    "player": "Travis Hunter",
+    "age": "22.4",
+    "ecr_1qb": "37.6",
+    "ecr_2qb": "52",
+    "ecr_pos": "21.3"
   },
   {
     "player": "Zay Flowers",
     "age": "25",
-    "ecr_1qb": "38.8",
-    "ecr_2qb": "51.3",
+    "ecr_1qb": "39.4",
+    "ecr_2qb": "52.2",
+    "ecr_pos": "20.7"
+  },
+  {
+    "player": "DeVonta Smith",
+    "age": "26.9",
+    "ecr_1qb": "39.9",
+    "ecr_2qb": "54.7",
+    "ecr_pos": "25"
+  },
+  {
+    "player": "Kenneth Walker III",
+    "age": "24.9",
+    "ecr_1qb": "40",
+    "ecr_2qb": "54.4",
+    "ecr_pos": "12.6"
+  },
+  {
+    "player": "Tee Higgins",
+    "age": "26.7",
+    "ecr_1qb": "40.4",
+    "ecr_2qb": "47.8",
     "ecr_pos": "21.3"
   },
   {
-    "player": "Chris Olave",
-    "age": "25.2",
-    "ecr_1qb": "39.4",
-    "ecr_2qb": "53",
-    "ecr_pos": "26.3"
+    "player": "Jaylen Waddle",
+    "age": "26.8",
+    "ecr_1qb": "40.7",
+    "ecr_2qb": "53.9",
+    "ecr_pos": "26.7"
   },
   {
     "player": "James Cook III",
     "age": "26",
-    "ecr_1qb": "39.7",
-    "ecr_2qb": "53",
-    "ecr_pos": "12"
-  },
-  {
-    "player": "Tank Dell",
-    "age": "25.9",
-    "ecr_1qb": "40",
-    "ecr_2qb": "344",
-    "ecr_pos": "80"
-  },
-  {
-    "player": "DeVonta Smith",
-    "age": "26.8",
-    "ecr_1qb": "40.4",
-    "ecr_2qb": "55.6",
-    "ecr_pos": "27.3"
+    "ecr_1qb": "41.4",
+    "ecr_2qb": "54.2",
+    "ecr_pos": "12.4"
   },
   {
     "player": "DK Metcalf",
     "age": "27.8",
-    "ecr_1qb": "41.6",
-    "ecr_2qb": "59.7",
-    "ecr_pos": "24.7"
+    "ecr_1qb": "42.4",
+    "ecr_2qb": "60.2",
+    "ecr_pos": "25.3"
   },
   {
     "player": "Chase Brown",
     "age": "25.5",
-    "ecr_1qb": "44",
-    "ecr_2qb": "57",
-    "ecr_pos": "13.7"
+    "ecr_1qb": "43",
+    "ecr_2qb": "57.4",
+    "ecr_pos": "13.2"
   },
   {
-    "player": "Xavier Worthy",
-    "age": "22.4",
-    "ecr_1qb": "45.3",
-    "ecr_2qb": "62",
-    "ecr_pos": "25"
-  },
-  {
-    "player": "Tyler Warren",
-    "age": "23.3",
-    "ecr_1qb": "47.7",
-    "ecr_2qb": "63",
-    "ecr_pos": "4.3"
-  },
-  {
-    "player": "RJ Harvey",
-    "age": "24.6",
-    "ecr_1qb": "48",
-    "ecr_2qb": "63.3",
-    "ecr_pos": "14.7"
-  },
-  {
-    "player": "George Pickens",
-    "age": "24.5",
-    "ecr_1qb": "49.4",
-    "ecr_2qb": "65.3",
-    "ecr_pos": "26"
-  },
-  {
-    "player": "Kyren Williams",
-    "age": "25.1",
-    "ecr_1qb": "49.8",
-    "ecr_2qb": "67.7",
-    "ecr_pos": "16"
-  },
-  {
-    "player": "DJ Moore",
-    "age": "28.4",
-    "ecr_1qb": "49.8",
-    "ecr_2qb": "68.3",
-    "ecr_pos": "28"
+    "player": "Chris Olave",
+    "age": "25.2",
+    "ecr_1qb": "43.8",
+    "ecr_2qb": "56.3",
+    "ecr_pos": "28.3"
   },
   {
     "player": "Joe Burrow",
     "age": "28.8",
-    "ecr_1qb": "49.8",
-    "ecr_2qb": "11",
-    "ecr_pos": "6"
+    "ecr_1qb": "45.8",
+    "ecr_2qb": "10",
+    "ecr_pos": "4.7"
   },
   {
-    "player": "C.J. Stroud",
-    "age": "24",
-    "ecr_1qb": "49.8",
-    "ecr_2qb": "20",
-    "ecr_pos": "12.7"
-  },
-  {
-    "player": "Tyreek Hill",
-    "age": "31.6",
-    "ecr_1qb": "51",
-    "ecr_2qb": "67.2",
-    "ecr_pos": "35"
-  },
-  {
-    "player": "Terry McLaurin",
-    "age": "30",
-    "ecr_1qb": "51.3",
-    "ecr_2qb": "66.3",
-    "ecr_pos": "27"
+    "player": "Tyler Warren",
+    "age": "23.3",
+    "ecr_1qb": "46.8",
+    "ecr_2qb": "60",
+    "ecr_pos": "3.3"
   },
   {
     "player": "Quinshon Judkins",
     "age": "21.9",
-    "ecr_1qb": "52",
-    "ecr_2qb": "67",
-    "ecr_pos": "15.7"
+    "ecr_1qb": "47.2",
+    "ecr_2qb": "60.4",
+    "ecr_pos": "14.2"
+  },
+  {
+    "player": "Kyren Williams",
+    "age": "25.1",
+    "ecr_1qb": "47.7",
+    "ecr_2qb": "63",
+    "ecr_pos": "15.2"
+  },
+  {
+    "player": "Xavier Worthy",
+    "age": "22.4",
+    "ecr_1qb": "47.8",
+    "ecr_2qb": "62.4",
+    "ecr_pos": "23.3"
+  },
+  {
+    "player": "DJ Moore",
+    "age": "28.5",
+    "ecr_1qb": "49.9",
+    "ecr_2qb": "68.6",
+    "ecr_pos": "28"
   },
   {
     "player": "Tucker Kraft",
     "age": "24.9",
-    "ecr_1qb": "53",
-    "ecr_2qb": "69.3",
-    "ecr_pos": "5.3"
-  },
-  {
-    "player": "Jordan Addison",
-    "age": "23.6",
-    "ecr_1qb": "53",
-    "ecr_2qb": "69.3",
-    "ecr_pos": "28"
-  },
-  {
-    "player": "George Kittle",
-    "age": "31.9",
-    "ecr_1qb": "53.7",
-    "ecr_2qb": "69.3",
-    "ecr_pos": "6"
-  },
-  {
-    "player": "Derrick Henry",
-    "age": "31.7",
-    "ecr_1qb": "54.7",
-    "ecr_2qb": "69.3",
-    "ecr_pos": "17.3"
+    "ecr_1qb": "50.6",
+    "ecr_2qb": "65.8",
+    "ecr_pos": "5"
   },
   {
     "player": "Josh Jacobs",
     "age": "27.6",
-    "ecr_1qb": "57.7",
-    "ecr_2qb": "72.3",
-    "ecr_pos": "18"
+    "ecr_1qb": "50.8",
+    "ecr_2qb": "64.8",
+    "ecr_pos": "15.2"
   },
   {
-    "player": "Brandon Aiyuk",
-    "age": "27.5",
-    "ecr_1qb": "58.6",
-    "ecr_2qb": "74.4",
-    "ecr_pos": "38.3"
+    "player": "Derrick Henry",
+    "age": "31.7",
+    "ecr_1qb": "51",
+    "ecr_2qb": "65",
+    "ecr_pos": "15.8"
   },
   {
-    "player": "Colston Loveland",
-    "age": "21.4",
-    "ecr_1qb": "58.7",
-    "ecr_2qb": "73.7",
-    "ecr_pos": "6.7"
+    "player": "Tyreek Hill",
+    "age": "31.6",
+    "ecr_1qb": "52.5",
+    "ecr_2qb": "67",
+    "ecr_pos": "34.3"
   },
   {
-    "player": "Caleb Williams",
-    "age": "23.8",
-    "ecr_1qb": "59.2",
-    "ecr_2qb": "19.4",
-    "ecr_pos": "9.7"
+    "player": "C.J. Stroud",
+    "age": "24",
+    "ecr_1qb": "53.4",
+    "ecr_2qb": "17.4",
+    "ecr_pos": "14.7"
   },
   {
-    "player": "Michael Pittman Jr.",
-    "age": "28",
-    "ecr_1qb": "59.6",
-    "ecr_2qb": "93",
-    "ecr_pos": "37.3"
-  },
-  {
-    "player": "T.J. Hockenson",
-    "age": "28.2",
-    "ecr_1qb": "62.3",
-    "ecr_2qb": "78",
+    "player": "George Kittle",
+    "age": "32",
+    "ecr_1qb": "55.2",
+    "ecr_2qb": "69.8",
     "ecr_pos": "7.3"
   },
   {
-    "player": "Dalton Kincaid",
-    "age": "25.9",
-    "ecr_1qb": "63.2",
-    "ecr_2qb": "77",
-    "ecr_pos": "11.3"
+    "player": "Jordan Addison",
+    "age": "23.7",
+    "ecr_1qb": "55.8",
+    "ecr_2qb": "70.6",
+    "ecr_pos": "27.7"
+  },
+  {
+    "player": "Caleb Williams",
+    "age": "23.9",
+    "ecr_1qb": "56.4",
+    "ecr_2qb": "16.6",
+    "ecr_pos": "9.3"
+  },
+  {
+    "player": "George Pickens",
+    "age": "24.6",
+    "ecr_1qb": "56.6",
+    "ecr_2qb": "76.6",
+    "ecr_pos": "31"
   },
   {
     "player": "Justin Herbert",
     "age": "27.5",
-    "ecr_1qb": "65.5",
-    "ecr_2qb": "19",
-    "ecr_pos": "8.7"
+    "ecr_1qb": "58",
+    "ecr_2qb": "15",
+    "ecr_pos": "7"
   },
   {
-    "player": "Drake Maye",
-    "age": "23.1",
-    "ecr_1qb": "65.5",
-    "ecr_2qb": "31.2",
-    "ecr_pos": "7.7"
+    "player": "RJ Harvey",
+    "age": "24.6",
+    "ecr_1qb": "58.4",
+    "ecr_2qb": "72.4",
+    "ecr_pos": "17"
   },
   {
-    "player": "Jameson Williams",
-    "age": "24.5",
-    "ecr_1qb": "65.7",
-    "ecr_2qb": "81.3",
-    "ecr_pos": "32"
+    "player": "Terry McLaurin",
+    "age": "30",
+    "ecr_1qb": "58.6",
+    "ecr_2qb": "72.2",
+    "ecr_pos": "30.7"
+  },
+  {
+    "player": "Dalton Kincaid",
+    "age": "25.9",
+    "ecr_1qb": "60.2",
+    "ecr_2qb": "72",
+    "ecr_pos": "10"
   },
   {
     "player": "Ricky Pearsall",
     "age": "25",
-    "ecr_1qb": "66.5",
-    "ecr_2qb": "83.5",
-    "ecr_pos": "39.3"
+    "ecr_1qb": "61",
+    "ecr_2qb": "75.2",
+    "ecr_pos": "27.3"
+  },
+  {
+    "player": "Brandon Aiyuk",
+    "age": "27.5",
+    "ecr_1qb": "63.2",
+    "ecr_2qb": "77.6",
+    "ecr_pos": "41.3"
+  },
+  {
+    "player": "Colston Loveland",
+    "age": "21.5",
+    "ecr_1qb": "64",
+    "ecr_2qb": "78.2",
+    "ecr_pos": "8"
+  },
+  {
+    "player": "Drake Maye",
+    "age": "23.1",
+    "ecr_1qb": "64",
+    "ecr_2qb": "29.7",
+    "ecr_pos": "9"
+  },
+  {
+    "player": "Michael Pittman Jr.",
+    "age": "28",
+    "ecr_1qb": "65.7",
+    "ecr_2qb": "101.4",
+    "ecr_pos": "42.7"
+  },
+  {
+    "player": "Kyler Murray",
+    "age": "28.1",
+    "ecr_1qb": "67.8",
+    "ecr_2qb": "26",
+    "ecr_pos": "9.7"
   },
   {
     "player": "Bo Nix",
     "age": "25.6",
     "ecr_1qb": "68.5",
-    "ecr_2qb": "21.7",
-    "ecr_pos": "8.7"
-  },
-  {
-    "player": "Bhayshul Tuten",
-    "age": "22.6",
-    "ecr_1qb": "69",
-    "ecr_2qb": "87.7",
-    "ecr_pos": "20.7"
-  },
-  {
-    "player": "Luther Burden III",
-    "age": "21.8",
-    "ecr_1qb": "69",
-    "ecr_2qb": "86.7",
-    "ecr_pos": "33.7"
-  },
-  {
-    "player": "Travis Etienne Jr.",
-    "age": "26.6",
-    "ecr_1qb": "69.4",
-    "ecr_2qb": "85.8",
-    "ecr_pos": "27.3"
-  },
-  {
-    "player": "Alvin Kamara",
-    "age": "30.2",
-    "ecr_1qb": "69.7",
-    "ecr_2qb": "87.7",
-    "ecr_pos": "21"
-  },
-  {
-    "player": "Jerry Jeudy",
-    "age": "26.4",
-    "ecr_1qb": "71",
-    "ecr_2qb": "90",
-    "ecr_pos": "40.3"
-  },
-  {
-    "player": "Chuba Hubbard",
-    "age": "26.3",
-    "ecr_1qb": "72",
-    "ecr_2qb": "89.7",
-    "ecr_pos": "21.7"
+    "ecr_2qb": "20.2",
+    "ecr_pos": "10.3"
   },
   {
     "player": "Davante Adams",
-    "age": "32.7",
-    "ecr_1qb": "72.7",
-    "ecr_2qb": "90.3",
-    "ecr_pos": "35.7"
+    "age": "32.8",
+    "ecr_1qb": "69",
+    "ecr_2qb": "85.6",
+    "ecr_pos": "33"
   },
   {
-    "player": "Kyle Pitts Sr.",
-    "age": "25",
-    "ecr_1qb": "72.8",
-    "ecr_2qb": "109",
-    "ecr_pos": "12.7"
+    "player": "Jameson Williams",
+    "age": "24.5",
+    "ecr_1qb": "69.4",
+    "ecr_2qb": "84.6",
+    "ecr_pos": "30.3"
+  },
+  {
+    "player": "Travis Etienne Jr.",
+    "age": "26.7",
+    "ecr_1qb": "70.4",
+    "ecr_2qb": "85.5",
+    "ecr_pos": "27.2"
   },
   {
     "player": "Harold Fannin Jr.",
     "age": "21.2",
-    "ecr_1qb": "74.3",
-    "ecr_2qb": "90.3",
-    "ecr_pos": "10"
+    "ecr_1qb": "70.8",
+    "ecr_2qb": "84",
+    "ecr_pos": "8.3"
   },
   {
-    "player": "Jayden Higgins",
-    "age": "22.8",
-    "ecr_1qb": "76",
-    "ecr_2qb": "94",
-    "ecr_pos": "36.3"
+    "player": "Chuba Hubbard",
+    "age": "26.3",
+    "ecr_1qb": "71.6",
+    "ecr_2qb": "88.2",
+    "ecr_pos": "21.2"
   },
   {
-    "player": "Mike Evans",
-    "age": "32.1",
-    "ecr_1qb": "76",
-    "ecr_2qb": "95.7",
-    "ecr_pos": "37.7"
+    "player": "T.J. Hockenson",
+    "age": "28.2",
+    "ecr_1qb": "72.6",
+    "ecr_2qb": "86.6",
+    "ecr_pos": "10.3"
   },
   {
-    "player": "Brock Purdy",
-    "age": "25.7",
-    "ecr_1qb": "77.5",
-    "ecr_2qb": "34.2",
-    "ecr_pos": "13.7"
+    "player": "Kyle Pitts Sr.",
+    "age": "25",
+    "ecr_1qb": "73.3",
+    "ecr_2qb": "106.4",
+    "ecr_pos": "13"
   },
   {
     "player": "Matthew Golden",
-    "age": "22.1",
-    "ecr_1qb": "78.5",
-    "ecr_2qb": "99.5",
-    "ecr_pos": "44"
+    "age": "22.2",
+    "ecr_1qb": "76.5",
+    "ecr_2qb": "92",
+    "ecr_pos": "36"
   },
   {
-    "player": "Kyler Murray",
-    "age": "28.1",
-    "ecr_1qb": "79",
-    "ecr_2qb": "32.2",
-    "ecr_pos": "13.3"
+    "player": "Alvin Kamara",
+    "age": "30.2",
+    "ecr_1qb": "76.6",
+    "ecr_2qb": "93",
+    "ecr_pos": "22.6"
+  },
+  {
+    "player": "Jerry Jeudy",
+    "age": "26.4",
+    "ecr_1qb": "76.8",
+    "ecr_2qb": "92",
+    "ecr_pos": "35.3"
   },
   {
     "player": "David Njoku",
     "age": "29.2",
-    "ecr_1qb": "79.3",
-    "ecr_2qb": "95.7",
-    "ecr_pos": "11"
+    "ecr_1qb": "81",
+    "ecr_2qb": "95.2",
+    "ecr_pos": "10.7"
   },
   {
-    "player": "D'Andre Swift",
-    "age": "26.7",
-    "ecr_1qb": "81.3",
-    "ecr_2qb": "101.3",
-    "ecr_pos": "24.7"
+    "player": "Mike Evans",
+    "age": "32.1",
+    "ecr_1qb": "81",
+    "ecr_2qb": "98.8",
+    "ecr_pos": "39"
   },
   {
-    "player": "David Montgomery",
-    "age": "28.3",
-    "ecr_1qb": "84.3",
-    "ecr_2qb": "104",
-    "ecr_pos": "25.7"
+    "player": "Luther Burden III",
+    "age": "21.8",
+    "ecr_1qb": "82.8",
+    "ecr_2qb": "98.6",
+    "ecr_pos": "42"
   },
   {
     "player": "Josh Downs",
     "age": "24.1",
-    "ecr_1qb": "84.7",
-    "ecr_2qb": "101.7",
-    "ecr_pos": "39"
+    "ecr_1qb": "83.8",
+    "ecr_2qb": "99.4",
+    "ecr_pos": "36"
   },
   {
-    "player": "Tyrone Tracy Jr.",
-    "age": "25.8",
-    "ecr_1qb": "87.5",
-    "ecr_2qb": "108",
-    "ecr_pos": "31.3"
+    "player": "Brock Purdy",
+    "age": "25.7",
+    "ecr_1qb": "84",
+    "ecr_2qb": "31.1",
+    "ecr_pos": "14.3"
   },
   {
-    "player": "Baker Mayfield",
-    "age": "30.4",
-    "ecr_1qb": "88.5",
-    "ecr_2qb": "39.7",
-    "ecr_pos": "15"
-  },
-  {
-    "player": "Tre Harris",
-    "age": "23.6",
-    "ecr_1qb": "89",
-    "ecr_2qb": "108.3",
-    "ecr_pos": "44"
+    "player": "David Montgomery",
+    "age": "28.3",
+    "ecr_1qb": "84.2",
+    "ecr_2qb": "101",
+    "ecr_pos": "25.2"
   },
   {
     "player": "Courtland Sutton",
-    "age": "29.9",
-    "ecr_1qb": "89",
-    "ecr_2qb": "111",
-    "ecr_pos": "44"
-  },
-  {
-    "player": "Chris Godwin Jr.",
-    "age": "29.6",
-    "ecr_1qb": "90.5",
-    "ecr_2qb": "112",
-    "ecr_pos": "46"
-  },
-  {
-    "player": "Jakobi Meyers",
-    "age": "28.9",
-    "ecr_1qb": "91.5",
-    "ecr_2qb": "113",
-    "ecr_pos": "49.3"
+    "age": "30",
+    "ecr_1qb": "84.5",
+    "ecr_2qb": "101.8",
+    "ecr_pos": "39"
   },
   {
     "player": "Cam Skattebo",
     "age": "23.6",
-    "ecr_1qb": "92",
-    "ecr_2qb": "114",
-    "ecr_pos": "27.7"
-  },
-  {
-    "player": "Keon Coleman",
-    "age": "22.3",
-    "ecr_1qb": "93",
-    "ecr_2qb": "112.3",
-    "ecr_pos": "45.7"
-  },
-  {
-    "player": "Calvin Ridley",
-    "age": "30.7",
-    "ecr_1qb": "93",
-    "ecr_2qb": "114.5",
-    "ecr_pos": "47.3"
-  },
-  {
-    "player": "James Conner",
-    "age": "30.4",
-    "ecr_1qb": "93.5",
-    "ecr_2qb": "115",
-    "ecr_pos": "31"
-  },
-  {
-    "player": "Jayden Reed",
-    "age": "25.4",
-    "ecr_1qb": "94.3",
-    "ecr_2qb": "114",
-    "ecr_pos": "45.7"
-  },
-  {
-    "player": "Dak Prescott",
-    "age": "32.1",
-    "ecr_1qb": "95.5",
-    "ecr_2qb": "41",
-    "ecr_pos": "17"
-  },
-  {
-    "player": "Tony Pollard",
-    "age": "28.4",
-    "ecr_1qb": "98",
-    "ecr_2qb": "119.5",
-    "ecr_pos": "32"
-  },
-  {
-    "player": "Kaleb Johnson",
-    "age": "22.1",
-    "ecr_1qb": "98.3",
-    "ecr_2qb": "116.7",
-    "ecr_pos": "26.7"
-  },
-  {
-    "player": "Jared Goff",
-    "age": "30.9",
-    "ecr_1qb": "99.5",
-    "ecr_2qb": "55",
-    "ecr_pos": "17.7"
-  },
-  {
-    "player": "Khalil Shakir",
-    "age": "25.6",
-    "ecr_1qb": "99.5",
-    "ecr_2qb": "121",
-    "ecr_pos": "52"
-  },
-  {
-    "player": "Jauan Jennings",
-    "age": "28.2",
-    "ecr_1qb": "101",
-    "ecr_2qb": "121",
-    "ecr_pos": "53.3"
-  },
-  {
-    "player": "Jordan Love",
-    "age": "26.9",
-    "ecr_1qb": "101",
-    "ecr_2qb": "33.4",
-    "ecr_pos": "16"
+    "ecr_1qb": "87.2",
+    "ecr_2qb": "103.4",
+    "ecr_pos": "24.8"
   },
   {
     "player": "Trevor Lawrence",
     "age": "26",
-    "ecr_1qb": "103",
-    "ecr_2qb": "43",
-    "ecr_pos": "17"
+    "ecr_1qb": "87.5",
+    "ecr_2qb": "34.7",
+    "ecr_pos": "14.3"
   },
   {
-    "player": "Isaiah Likely",
+    "player": "Tony Pollard",
+    "age": "28.4",
+    "ecr_1qb": "88",
+    "ecr_2qb": "105",
+    "ecr_pos": "29"
+  },
+  {
+    "player": "Jordan Love",
+    "age": "26.9",
+    "ecr_1qb": "90",
+    "ecr_2qb": "27",
+    "ecr_pos": "13"
+  },
+  {
+    "player": "Baker Mayfield",
+    "age": "30.5",
+    "ecr_1qb": "90.2",
+    "ecr_2qb": "37",
+    "ecr_pos": "15.3"
+  },
+  {
+    "player": "Jayden Higgins",
+    "age": "22.8",
+    "ecr_1qb": "90.8",
+    "ecr_2qb": "107.6",
+    "ecr_pos": "46.7"
+  },
+  {
+    "player": "Chris Godwin Jr.",
+    "age": "29.6",
+    "ecr_1qb": "94",
+    "ecr_2qb": "110.8",
+    "ecr_pos": "44.3"
+  },
+  {
+    "player": "Jakobi Meyers",
+    "age": "28.9",
+    "ecr_1qb": "94.5",
+    "ecr_2qb": "111.8",
+    "ecr_pos": "43"
+  },
+  {
+    "player": "D'Andre Swift",
+    "age": "26.7",
+    "ecr_1qb": "96.2",
+    "ecr_2qb": "113.2",
+    "ecr_pos": "26.8"
+  },
+  {
+    "player": "Khalil Shakir",
+    "age": "25.6",
+    "ecr_1qb": "96.8",
+    "ecr_2qb": "113",
+    "ecr_pos": "45"
+  },
+  {
+    "player": "Mark Andrews",
+    "age": "30.1",
+    "ecr_1qb": "97.4",
+    "ecr_2qb": "111.6",
+    "ecr_pos": "11.7"
+  },
+  {
+    "player": "Calvin Ridley",
+    "age": "30.8",
+    "ecr_1qb": "98.2",
+    "ecr_2qb": "115.8",
+    "ecr_pos": "45"
+  },
+  {
+    "player": "Dak Prescott",
+    "age": "32.2",
+    "ecr_1qb": "99",
+    "ecr_2qb": "39.9",
+    "ecr_pos": "17.7"
+  },
+  {
+    "player": "Keon Coleman",
+    "age": "22.4",
+    "ecr_1qb": "100.2",
+    "ecr_2qb": "116.4",
+    "ecr_pos": "49"
+  },
+  {
+    "player": "Bhayshul Tuten",
+    "age": "22.6",
+    "ecr_1qb": "101",
+    "ecr_2qb": "115.4",
+    "ecr_pos": "27.2"
+  },
+  {
+    "player": "Jayden Reed",
     "age": "25.4",
-    "ecr_1qb": "103.7",
-    "ecr_2qb": "121",
-    "ecr_pos": "16.3"
+    "ecr_1qb": "102.4",
+    "ecr_2qb": "118.8",
+    "ecr_pos": "52.7"
   },
   {
     "player": "Jaylen Warren",
     "age": "26.9",
-    "ecr_1qb": "106",
-    "ecr_2qb": "125",
-    "ecr_pos": "33.7"
-  },
-  {
-    "player": "J.J. McCarthy",
-    "age": "22.7",
-    "ecr_1qb": "107.5",
-    "ecr_2qb": "45.3",
-    "ecr_pos": "14.7"
-  },
-  {
-    "player": "Stefon Diggs",
-    "age": "31.8",
-    "ecr_1qb": "107.5",
-    "ecr_2qb": "127.5",
-    "ecr_pos": "51"
-  },
-  {
-    "player": "Zach Charbonnet",
-    "age": "24.7",
-    "ecr_1qb": "108.5",
-    "ecr_2qb": "128.5",
-    "ecr_pos": "32.7"
-  },
-  {
-    "player": "Mark Andrews",
-    "age": "30",
-    "ecr_1qb": "109.7",
-    "ecr_2qb": "126.7",
-    "ecr_pos": "15.7"
+    "ecr_1qb": "103.4",
+    "ecr_2qb": "118.2",
+    "ecr_pos": "27.4"
   },
   {
     "player": "Jake Ferguson",
     "age": "26.7",
-    "ecr_1qb": "110",
-    "ecr_2qb": "128",
+    "ecr_1qb": "103.4",
+    "ecr_2qb": "118",
+    "ecr_pos": "13.3"
+  },
+  {
+    "player": "Jauan Jennings",
+    "age": "28.2",
+    "ecr_1qb": "103.5",
+    "ecr_2qb": "120",
+    "ecr_pos": "48"
+  },
+  {
+    "player": "Kaleb Johnson",
+    "age": "22.1",
+    "ecr_1qb": "104.2",
+    "ecr_2qb": "121",
+    "ecr_pos": "29.2"
+  },
+  {
+    "player": "Isaiah Likely",
+    "age": "25.4",
+    "ecr_1qb": "105",
+    "ecr_2qb": "120.2",
     "ecr_pos": "16"
   },
   {
     "player": "Trey Benson",
     "age": "23.2",
-    "ecr_1qb": "110.7",
-    "ecr_2qb": "127.7",
-    "ecr_pos": "32.7"
-  },
-  {
-    "player": "Jaylin Noel",
-    "age": "23",
-    "ecr_1qb": "111",
-    "ecr_2qb": "131.5",
-    "ecr_pos": "59.3"
-  },
-  {
-    "player": "Kyle Williams",
-    "age": "22.9",
-    "ecr_1qb": "111.5",
-    "ecr_2qb": "130.5",
-    "ecr_pos": "59.3"
+    "ecr_1qb": "108.8",
+    "ecr_2qb": "122.6",
+    "ecr_pos": "29.8"
   },
   {
     "player": "Deebo Samuel Sr.",
     "age": "29.7",
-    "ecr_1qb": "111.5",
-    "ecr_2qb": "132",
-    "ecr_pos": "53.7"
+    "ecr_1qb": "110",
+    "ecr_2qb": "125.8",
+    "ecr_pos": "52"
   },
   {
-    "player": "Mason Taylor",
-    "age": "21.4",
-    "ecr_1qb": "112.7",
-    "ecr_2qb": "127.3",
-    "ecr_pos": "16.3"
-  },
-  {
-    "player": "Cam Ward",
-    "age": "23.3",
-    "ecr_1qb": "113",
-    "ecr_2qb": "61.3",
-    "ecr_pos": "18.7"
-  },
-  {
-    "player": "Evan Engram",
+    "player": "Jared Goff",
     "age": "31",
-    "ecr_1qb": "113.7",
-    "ecr_2qb": "129",
-    "ecr_pos": "17"
-  },
-  {
-    "player": "Dallas Goedert",
-    "age": "30.7",
-    "ecr_1qb": "114",
-    "ecr_2qb": "132",
-    "ecr_pos": "17.7"
-  },
-  {
-    "player": "Terrance Ferguson",
-    "age": "22.5",
-    "ecr_1qb": "117",
-    "ecr_2qb": "133",
-    "ecr_pos": "16.3"
-  },
-  {
-    "player": "Rashid Shaheed",
-    "age": "27.1",
-    "ecr_1qb": "117",
-    "ecr_2qb": "138",
-    "ecr_pos": "62.3"
-  },
-  {
-    "player": "Cooper Kupp",
-    "age": "32.3",
-    "ecr_1qb": "118.5",
-    "ecr_2qb": "139.5",
-    "ecr_pos": "54.3"
-  },
-  {
-    "player": "Michael Penix Jr.",
-    "age": "25.4",
-    "ecr_1qb": "120",
-    "ecr_2qb": "70.3",
+    "ecr_1qb": "111.8",
+    "ecr_2qb": "56.6",
     "ecr_pos": "20.7"
   },
   {
-    "player": "Marvin Mims Jr.",
-    "age": "23.5",
-    "ecr_1qb": "120.5",
-    "ecr_2qb": "140",
-    "ecr_pos": "64.7"
+    "player": "Tre Harris",
+    "age": "23.6",
+    "ecr_1qb": "112.8",
+    "ecr_2qb": "127.2",
+    "ecr_pos": "59"
   },
   {
-    "player": "Travis Kelce",
-    "age": "36",
-    "ecr_1qb": "122.7",
-    "ecr_2qb": "138",
-    "ecr_pos": "20.3"
+    "player": "James Conner",
+    "age": "30.4",
+    "ecr_1qb": "112.8",
+    "ecr_2qb": "131.2",
+    "ecr_pos": "34.4"
   },
   {
-    "player": "Isiah Pacheco",
-    "age": "26.6",
-    "ecr_1qb": "123",
-    "ecr_2qb": "141.5",
-    "ecr_pos": "37"
-  },
-  {
-    "player": "Elic Ayomanor",
-    "age": "22.3",
-    "ecr_1qb": "123.3",
-    "ecr_2qb": "139",
-    "ecr_pos": "57"
+    "player": "J.J. McCarthy",
+    "age": "22.7",
+    "ecr_1qb": "113.2",
+    "ecr_2qb": "51",
+    "ecr_pos": "18.3"
   },
   {
     "player": "Anthony Richardson Sr.",
     "age": "23.3",
-    "ecr_1qb": "123.3",
-    "ecr_2qb": "91",
-    "ecr_pos": "31"
+    "ecr_1qb": "116.4",
+    "ecr_2qb": "83",
+    "ecr_pos": "30.7"
+  },
+  {
+    "player": "Stefon Diggs",
+    "age": "31.8",
+    "ecr_1qb": "116.8",
+    "ecr_2qb": "132",
+    "ecr_pos": "55.3"
+  },
+  {
+    "player": "Cam Ward",
+    "age": "23.3",
+    "ecr_1qb": "118.5",
+    "ecr_2qb": "61.8",
+    "ecr_pos": "18.7"
+  },
+  {
+    "player": "Rashid Shaheed",
+    "age": "27.1",
+    "ecr_1qb": "119",
+    "ecr_2qb": "134",
+    "ecr_pos": "58"
   },
   {
     "player": "Cedric Tillman",
     "age": "25.4",
-    "ecr_1qb": "123.5",
-    "ecr_2qb": "144.5",
-    "ecr_pos": "55"
+    "ecr_1qb": "119.5",
+    "ecr_2qb": "135.5",
+    "ecr_pos": "57.7"
+  },
+  {
+    "player": "Tyrone Tracy Jr.",
+    "age": "25.8",
+    "ecr_1qb": "120.2",
+    "ecr_2qb": "135.2",
+    "ecr_pos": "36"
+  },
+  {
+    "player": "Dallas Goedert",
+    "age": "30.7",
+    "ecr_1qb": "120.6",
+    "ecr_2qb": "135",
+    "ecr_pos": "18"
+  },
+  {
+    "player": "Evan Engram",
+    "age": "31.1",
+    "ecr_1qb": "121.8",
+    "ecr_2qb": "135.4",
+    "ecr_pos": "17.7"
+  },
+  {
+    "player": "Jordan Mason",
+    "age": "26.3",
+    "ecr_1qb": "122.8",
+    "ecr_2qb": "136.2",
+    "ecr_pos": "31.6"
+  },
+  {
+    "player": "Michael Penix Jr.",
+    "age": "25.4",
+    "ecr_1qb": "123",
+    "ecr_2qb": "71.4",
+    "ecr_pos": "21"
+  },
+  {
+    "player": "Tank Dell",
+    "age": "25.9",
+    "ecr_1qb": "123.4",
+    "ecr_2qb": "193.7",
+    "ecr_pos": "79.7"
   },
   {
     "player": "Aaron Jones Sr.",
     "age": "30.8",
     "ecr_1qb": "124.5",
-    "ecr_2qb": "144.5",
-    "ecr_pos": "37.7"
+    "ecr_2qb": "141.8",
+    "ecr_pos": "36.4"
   },
   {
-    "player": "Jordan Mason",
-    "age": "26.3",
-    "ecr_1qb": "125.5",
-    "ecr_2qb": "142",
-    "ecr_pos": "43.3"
+    "player": "Jaylin Noel",
+    "age": "23.1",
+    "ecr_1qb": "124.5",
+    "ecr_2qb": "139.2",
+    "ecr_pos": "60.7"
+  },
+  {
+    "player": "Mason Taylor",
+    "age": "21.4",
+    "ecr_1qb": "124.6",
+    "ecr_2qb": "136.8",
+    "ecr_pos": "17.3"
+  },
+  {
+    "player": "Jacory Croskey-Merritt",
+    "age": "24.5",
+    "ecr_1qb": "124.8",
+    "ecr_2qb": "137.8",
+    "ecr_pos": "32.6"
+  },
+  {
+    "player": "Travis Kelce",
+    "age": "36",
+    "ecr_1qb": "125",
+    "ecr_2qb": "137.6",
+    "ecr_pos": "19.3"
   },
   {
     "player": "Bryce Young",
     "age": "24.2",
-    "ecr_1qb": "125.5",
-    "ecr_2qb": "79",
-    "ecr_pos": "22.7"
-  },
-  {
-    "player": "Troy Franklin",
-    "age": "22.6",
-    "ecr_1qb": "126",
-    "ecr_2qb": "140.5",
-    "ecr_pos": "60.3"
-  },
-  {
-    "player": "Tua Tagovailoa",
-    "age": "27.6",
-    "ecr_1qb": "126",
-    "ecr_2qb": "65.6",
-    "ecr_pos": "23.3"
-  },
-  {
-    "player": "Jonathon Brooks",
-    "age": "22.2",
-    "ecr_1qb": "128.3",
-    "ecr_2qb": "202.5",
-    "ecr_pos": "54"
-  },
-  {
-    "player": "Jaxson Dart",
-    "age": "22.4",
-    "ecr_1qb": "128.5",
-    "ecr_2qb": "77.7",
+    "ecr_1qb": "126.2",
+    "ecr_2qb": "74.2",
     "ecr_pos": "22.3"
   },
   {
-    "player": "Elijah Arroyo",
-    "age": "22.5",
-    "ecr_1qb": "131.3",
-    "ecr_2qb": "146.7",
-    "ecr_pos": "19.3"
-  },
-  {
-    "player": "Justin Fields",
-    "age": "26.5",
-    "ecr_1qb": "132.5",
-    "ecr_2qb": "84.3",
-    "ecr_pos": "23.7"
-  },
-  {
-    "player": "Dylan Sampson",
-    "age": "21",
-    "ecr_1qb": "132.5",
-    "ecr_2qb": "152.5",
-    "ecr_pos": "42.3"
-  },
-  {
-    "player": "Jonnu Smith",
-    "age": "30.1",
-    "ecr_1qb": "134",
-    "ecr_2qb": "149.3",
-    "ecr_pos": "22"
+    "player": "Isiah Pacheco",
+    "age": "26.6",
+    "ecr_1qb": "126.8",
+    "ecr_2qb": "141",
+    "ecr_pos": "36.4"
   },
   {
     "player": "Darnell Mooney",
     "age": "27.9",
-    "ecr_1qb": "137",
-    "ecr_2qb": "160",
-    "ecr_pos": "64"
+    "ecr_1qb": "127",
+    "ecr_2qb": "142.2",
+    "ecr_pos": "62"
   },
   {
-    "player": "Pat Freiermuth",
-    "age": "26.9",
-    "ecr_1qb": "137.7",
-    "ecr_2qb": "152",
-    "ecr_pos": "23"
+    "player": "Zach Charbonnet",
+    "age": "24.7",
+    "ecr_1qb": "127.2",
+    "ecr_2qb": "141.2",
+    "ecr_pos": "35.2"
   },
   {
-    "player": "Jalen Coker",
-    "age": "23.9",
-    "ecr_1qb": "138",
-    "ecr_2qb": "155.5",
-    "ecr_pos": "63.3"
+    "player": "Justin Fields",
+    "age": "26.6",
+    "ecr_1qb": "128",
+    "ecr_2qb": "75",
+    "ecr_pos": "20.7"
   },
   {
-    "player": "Jack Bech",
-    "age": "22.8",
-    "ecr_1qb": "138",
-    "ecr_2qb": "156",
-    "ecr_pos": "69.7"
+    "player": "Elic Ayomanor",
+    "age": "22.3",
+    "ecr_1qb": "128.4",
+    "ecr_2qb": "140.2",
+    "ecr_pos": "61.7"
   },
   {
-    "player": "Sam Darnold",
-    "age": "28.3",
-    "ecr_1qb": "139",
-    "ecr_2qb": "96",
-    "ecr_pos": "26.7"
+    "player": "Marvin Mims Jr.",
+    "age": "23.5",
+    "ecr_1qb": "130.5",
+    "ecr_2qb": "144.8",
+    "ecr_pos": "61.7"
   },
   {
-    "player": "Geno Smith",
-    "age": "34.9",
-    "ecr_1qb": "140",
-    "ecr_2qb": "94.3",
-    "ecr_pos": "26.3"
+    "player": "Cooper Kupp",
+    "age": "32.3",
+    "ecr_1qb": "131",
+    "ecr_2qb": "145",
+    "ecr_pos": "63.7"
   },
   {
     "player": "Javonte Williams",
     "age": "25.4",
-    "ecr_1qb": "142",
-    "ecr_2qb": "158.5",
-    "ecr_pos": "46.7"
+    "ecr_1qb": "132.8",
+    "ecr_2qb": "145.2",
+    "ecr_pos": "34"
   },
   {
-    "player": "Jalen McMillan",
-    "age": "23.8",
-    "ecr_1qb": "142.5",
-    "ecr_2qb": "164.5",
-    "ecr_pos": "66.3"
-  },
-  {
-    "player": "Xavier Legette",
-    "age": "24.6",
-    "ecr_1qb": "144",
-    "ecr_2qb": "161",
-    "ecr_pos": "74"
-  },
-  {
-    "player": "Quentin Johnston",
-    "age": "24",
-    "ecr_1qb": "144.5",
-    "ecr_2qb": "160",
-    "ecr_pos": "64"
-  },
-  {
-    "player": "Matthew Stafford",
-    "age": "37.6",
-    "ecr_1qb": "145",
-    "ecr_2qb": "100.7",
-    "ecr_pos": "28"
-  },
-  {
-    "player": "Rashod Bateman",
-    "age": "25.8",
-    "ecr_1qb": "145.5",
-    "ecr_2qb": "167",
-    "ecr_pos": "70.7"
-  },
-  {
-    "player": "Brenton Strange",
-    "age": "24.7",
-    "ecr_1qb": "147",
-    "ecr_2qb": "150",
-    "ecr_pos": "24.3"
-  },
-  {
-    "player": "J.K. Dobbins",
-    "age": "26.8",
-    "ecr_1qb": "147.5",
-    "ecr_2qb": "164",
-    "ecr_pos": "46"
+    "player": "Tua Tagovailoa",
+    "age": "27.6",
+    "ecr_1qb": "133.2",
+    "ecr_2qb": "67.4",
+    "ecr_pos": "24"
   },
   {
     "player": "Wan'Dale Robinson",
     "age": "24.7",
-    "ecr_1qb": "149",
-    "ecr_2qb": "165.5",
-    "ecr_pos": "70.7"
+    "ecr_1qb": "134.2",
+    "ecr_2qb": "147",
+    "ecr_pos": "60.3"
   },
   {
-    "player": "Rhamondre Stevenson",
-    "age": "27.6",
-    "ecr_1qb": "149.5",
-    "ecr_2qb": "311.6",
-    "ecr_pos": "40.3"
+    "player": "Jalen McMillan",
+    "age": "23.8",
+    "ecr_1qb": "134.2",
+    "ecr_2qb": "150.2",
+    "ecr_pos": "64"
+  },
+  {
+    "player": "Quentin Johnston",
+    "age": "24.1",
+    "ecr_1qb": "137",
+    "ecr_2qb": "147.2",
+    "ecr_pos": "58"
+  },
+  {
+    "player": "Jaxson Dart",
+    "age": "22.4",
+    "ecr_1qb": "137",
+    "ecr_2qb": "81",
+    "ecr_pos": "23.7"
+  },
+  {
+    "player": "Brenton Strange",
+    "age": "24.7",
+    "ecr_1qb": "139",
+    "ecr_2qb": "144.4",
+    "ecr_pos": "18"
+  },
+  {
+    "player": "Rashod Bateman",
+    "age": "25.8",
+    "ecr_1qb": "140.2",
+    "ecr_2qb": "153.5",
+    "ecr_pos": "67"
+  },
+  {
+    "player": "Kyle Williams",
+    "age": "22.9",
+    "ecr_1qb": "141",
+    "ecr_2qb": "153",
+    "ecr_pos": "65.3"
+  },
+  {
+    "player": "Jack Bech",
+    "age": "22.8",
+    "ecr_1qb": "141.5",
+    "ecr_2qb": "155",
+    "ecr_pos": "66"
+  },
+  {
+    "player": "Jonnu Smith",
+    "age": "30.1",
+    "ecr_1qb": "141.6",
+    "ecr_2qb": "153.6",
+    "ecr_pos": "23.7"
+  },
+  {
+    "player": "Sam Darnold",
+    "age": "28.3",
+    "ecr_1qb": "141.8",
+    "ecr_2qb": "94",
+    "ecr_pos": "26"
+  },
+  {
+    "player": "Elijah Arroyo",
+    "age": "22.5",
+    "ecr_1qb": "142.6",
+    "ecr_2qb": "154.4",
+    "ecr_pos": "22"
+  },
+  {
+    "player": "Terrance Ferguson",
+    "age": "22.6",
+    "ecr_1qb": "144.6",
+    "ecr_2qb": "156.8",
+    "ecr_pos": "24.3"
+  },
+  {
+    "player": "Geno Smith",
+    "age": "35",
+    "ecr_1qb": "148",
+    "ecr_2qb": "94.6",
+    "ecr_pos": "26.7"
+  },
+  {
+    "player": "Christian Kirk",
+    "age": "28.9",
+    "ecr_1qb": "148.2",
+    "ecr_2qb": "163.8",
+    "ecr_pos": "71"
+  },
+  {
+    "player": "Jalen Coker",
+    "age": "23.9",
+    "ecr_1qb": "150.5",
+    "ecr_2qb": "162",
+    "ecr_pos": "71.3"
+  },
+  {
+    "player": "Jonathon Brooks",
+    "age": "22.2",
+    "ecr_1qb": "150.5",
+    "ecr_2qb": "221.8",
+    "ecr_pos": "63"
   },
   {
     "player": "Marquise Brown",
     "age": "28.3",
-    "ecr_1qb": "149.5",
-    "ecr_2qb": "166",
-    "ecr_pos": "64"
+    "ecr_1qb": "151",
+    "ecr_2qb": "162.8",
+    "ecr_pos": "69.7"
   },
   {
-    "player": "Rachaad White",
-    "age": "26.7",
-    "ecr_1qb": "150",
-    "ecr_2qb": "165.5",
-    "ecr_pos": "44.7"
-  },
-  {
-    "player": "Pat Bryant",
-    "age": "22.8",
-    "ecr_1qb": "150.5",
-    "ecr_2qb": "166",
-    "ecr_pos": "74.3"
+    "player": "Dylan Sampson",
+    "age": "21",
+    "ecr_1qb": "152",
+    "ecr_2qb": "164.5",
+    "ecr_pos": "43.4"
   },
   {
     "player": "Tory Horton",
     "age": "22.8",
-    "ecr_1qb": "150.5",
-    "ecr_2qb": "166",
-    "ecr_pos": "70.3"
-  },
-  {
-    "player": "Dont'e Thornton Jr.",
-    "age": "22.8",
-    "ecr_1qb": "152",
-    "ecr_2qb": "167",
-    "ecr_pos": "70.5"
-  },
-  {
-    "player": "Christian Kirk",
-    "age": "28.8",
-    "ecr_1qb": "152",
-    "ecr_2qb": "174.5",
-    "ecr_pos": "69.7"
-  },
-  {
-    "player": "Najee Harris",
-    "age": "27.5",
-    "ecr_1qb": "152",
-    "ecr_2qb": "168.5",
-    "ecr_pos": "41.3"
-  },
-  {
-    "player": "Braelon Allen",
-    "age": "21.7",
-    "ecr_1qb": "154",
-    "ecr_2qb": "169.5",
-    "ecr_pos": "45.7"
-  },
-  {
-    "player": "Joe Mixon",
-    "age": "29.2",
-    "ecr_1qb": "155",
-    "ecr_2qb": "170.5",
-    "ecr_pos": "41.3"
-  },
-  {
-    "player": "DeMario Douglas",
-    "age": "24.8",
-    "ecr_1qb": "155.5",
-    "ecr_2qb": "171",
-    "ecr_pos": "76.7"
-  },
-  {
-    "player": "Romeo Doubs",
-    "age": "25.4",
-    "ecr_1qb": "156.5",
-    "ecr_2qb": "175.5",
-    "ecr_pos": "68.7"
-  },
-  {
-    "player": "Theo Johnson",
-    "age": "24.6",
-    "ecr_1qb": "156.7",
-    "ecr_2qb": "172",
-    "ecr_pos": "25.3"
-  },
-  {
-    "player": "Jaydon Blue",
-    "age": "21.7",
-    "ecr_1qb": "158",
-    "ecr_2qb": "173.5",
-    "ecr_pos": "48.7"
-  },
-  {
-    "player": "Cade Otton",
-    "age": "26.4",
-    "ecr_1qb": "159.5",
-    "ecr_2qb": "175",
-    "ecr_pos": "26.7"
+    "ecr_1qb": "152.8",
+    "ecr_2qb": "163.5",
+    "ecr_pos": "67.3"
   },
   {
     "player": "Keenan Allen",
     "age": "NA",
-    "ecr_1qb": "160.5",
-    "ecr_2qb": "177.5",
-    "ecr_pos": "72.7"
+    "ecr_1qb": "153.8",
+    "ecr_2qb": "164.2",
+    "ecr_pos": "67.7"
   },
   {
-    "player": "Tyjae Spears",
-    "age": "24.3",
-    "ecr_1qb": "160.5",
-    "ecr_2qb": "179",
-    "ecr_pos": "48.7"
-  },
-  {
-    "player": "Brian Robinson Jr.",
-    "age": "NA",
-    "ecr_1qb": "160.5",
-    "ecr_2qb": "179",
-    "ecr_pos": "43"
-  },
-  {
-    "player": "Adonai Mitchell",
-    "age": "22.9",
-    "ecr_1qb": "161.5",
-    "ecr_2qb": "179",
-    "ecr_pos": "71"
+    "player": "Matthew Stafford",
+    "age": "37.6",
+    "ecr_1qb": "155.5",
+    "ecr_2qb": "102.8",
+    "ecr_pos": "29"
   },
   {
     "player": "Ja'Tavion Sanders",
     "age": "22.5",
-    "ecr_1qb": "163.7",
-    "ecr_2qb": "168.7",
-    "ecr_pos": "26.7"
+    "ecr_1qb": "156.8",
+    "ecr_2qb": "162",
+    "ecr_pos": "24.7"
   },
   {
-    "player": "Ray Davis",
-    "age": "25.9",
-    "ecr_1qb": "169.5",
-    "ecr_2qb": "187",
-    "ecr_pos": "50.7"
+    "player": "J.K. Dobbins",
+    "age": "26.8",
+    "ecr_1qb": "156.8",
+    "ecr_2qb": "167.8",
+    "ecr_pos": "44.2"
   },
   {
-    "player": "Jalen Royals",
+    "player": "DeMario Douglas",
+    "age": "24.8",
+    "ecr_1qb": "157",
+    "ecr_2qb": "168",
+    "ecr_pos": "71.3"
+  },
+  {
+    "player": "Xavier Legette",
+    "age": "24.7",
+    "ecr_1qb": "157",
+    "ecr_2qb": "168.8",
+    "ecr_pos": "72"
+  },
+  {
+    "player": "Adonai Mitchell",
+    "age": "23",
+    "ecr_1qb": "159.5",
+    "ecr_2qb": "172",
+    "ecr_pos": "72"
+  },
+  {
+    "player": "Rhamondre Stevenson",
+    "age": "27.6",
+    "ecr_1qb": "160",
+    "ecr_2qb": "172.2",
+    "ecr_pos": "42.2"
+  },
+  {
+    "player": "Najee Harris",
+    "age": "27.6",
+    "ecr_1qb": "160.2",
+    "ecr_2qb": "172.8",
+    "ecr_pos": "43"
+  },
+  {
+    "player": "Pat Freiermuth",
+    "age": "26.9",
+    "ecr_1qb": "160.8",
+    "ecr_2qb": "171",
+    "ecr_pos": "29.3"
+  },
+  {
+    "player": "Romeo Doubs",
+    "age": "25.5",
+    "ecr_1qb": "161",
+    "ecr_2qb": "173.2",
+    "ecr_pos": "74.3"
+  },
+  {
+    "player": "Troy Franklin",
     "age": "22.6",
-    "ecr_1qb": "169.5",
-    "ecr_2qb": "187.5",
-    "ecr_pos": "76.7"
+    "ecr_1qb": "163.5",
+    "ecr_2qb": "172.8",
+    "ecr_pos": "71.7"
   },
   {
-    "player": "Tyler Allgeier",
-    "age": "25.4",
-    "ecr_1qb": "170.5",
-    "ecr_2qb": "188",
-    "ecr_pos": "57.3"
+    "player": "Braelon Allen",
+    "age": "21.7",
+    "ecr_1qb": "164.5",
+    "ecr_2qb": "174.5",
+    "ecr_pos": "46.2"
   },
   {
-    "player": "Dontayvion Wicks",
-    "age": "24.3",
-    "ecr_1qb": "172",
-    "ecr_2qb": "189.5",
-    "ecr_pos": "79.7"
-  },
-  {
-    "player": "Kayshon Boutte",
-    "age": "23.4",
-    "ecr_1qb": "172.5",
-    "ecr_2qb": "189.5",
-    "ecr_pos": "79"
-  },
-  {
-    "player": "Jarquez Hunter",
-    "age": "22.7",
-    "ecr_1qb": "174",
-    "ecr_2qb": "188",
-    "ecr_pos": "44.3"
-  },
-  {
-    "player": "DJ Giddens",
-    "age": "22.1",
-    "ecr_1qb": "174",
-    "ecr_2qb": "191",
-    "ecr_pos": "44.7"
-  },
-  {
-    "player": "Daniel Jones",
-    "age": "28.3",
-    "ecr_1qb": "176.5",
-    "ecr_2qb": "106.7",
-    "ecr_pos": "30"
-  },
-  {
-    "player": "Tank Bigsby",
-    "age": "NA",
-    "ecr_1qb": "179",
-    "ecr_2qb": "195",
-    "ecr_pos": "48.3"
-  },
-  {
-    "player": "Oronde Gadsden II",
-    "age": "22.2",
-    "ecr_1qb": "181",
-    "ecr_2qb": "195.5",
-    "ecr_pos": "30.5"
-  },
-  {
-    "player": "Ben Sinnott",
-    "age": "23.3",
-    "ecr_1qb": "182",
-    "ecr_2qb": "177.3",
-    "ecr_pos": "31"
-  },
-  {
-    "player": "Nick Chubb",
-    "age": "29.7",
-    "ecr_1qb": "182.5",
-    "ecr_2qb": "195.5",
-    "ecr_pos": "57.3"
-  },
-  {
-    "player": "Joshua Palmer",
-    "age": "26",
-    "ecr_1qb": "182.5",
-    "ecr_2qb": "201",
-    "ecr_pos": "78"
+    "player": "Joe Mixon",
+    "age": "29.2",
+    "ecr_1qb": "165.2",
+    "ecr_2qb": "175.5",
+    "ecr_pos": "43.4"
   },
   {
     "player": "Isaac TeSlaa",
     "age": "23.6",
-    "ecr_1qb": "182.5",
-    "ecr_2qb": "200.5",
+    "ecr_1qb": "166.5",
+    "ecr_2qb": "179",
+    "ecr_pos": "71.7"
+  },
+  {
+    "player": "Jalen Royals",
+    "age": "22.6",
+    "ecr_1qb": "166.8",
+    "ecr_2qb": "178.8",
+    "ecr_pos": "75.3"
+  },
+  {
+    "player": "Tyjae Spears",
+    "age": "24.3",
+    "ecr_1qb": "167",
+    "ecr_2qb": "178.2",
+    "ecr_pos": "47.4"
+  },
+  {
+    "player": "Jaydon Blue",
+    "age": "21.7",
+    "ecr_1qb": "169.8",
+    "ecr_2qb": "179.5",
+    "ecr_pos": "48.8"
+  },
+  {
+    "player": "Pat Bryant",
+    "age": "22.8",
+    "ecr_1qb": "170.5",
+    "ecr_2qb": "180",
+    "ecr_pos": "76.3"
+  },
+  {
+    "player": "Dontayvion Wicks",
+    "age": "24.3",
+    "ecr_1qb": "171.8",
+    "ecr_2qb": "182.5",
+    "ecr_pos": "77"
+  },
+  {
+    "player": "Theo Johnson",
+    "age": "24.6",
+    "ecr_1qb": "172.2",
+    "ecr_2qb": "182.4",
+    "ecr_pos": "30.3"
+  },
+  {
+    "player": "Rachaad White",
+    "age": "26.7",
+    "ecr_1qb": "173.2",
+    "ecr_2qb": "183",
+    "ecr_pos": "47.4"
+  },
+  {
+    "player": "Brian Robinson Jr.",
+    "age": "NA",
+    "ecr_1qb": "174.2",
+    "ecr_2qb": "185.5",
+    "ecr_pos": "46.2"
+  },
+  {
+    "player": "Ollie Gordon II",
+    "age": "21.7",
+    "ecr_1qb": "177",
+    "ecr_2qb": "187",
+    "ecr_pos": "49.4"
+  },
+  {
+    "player": "Tank Bigsby",
+    "age": "NA",
+    "ecr_1qb": "177.2",
+    "ecr_2qb": "188",
+    "ecr_pos": "48"
+  },
+  {
+    "player": "Oronde Gadsden II",
+    "age": "22.3",
+    "ecr_1qb": "177.5",
+    "ecr_2qb": "186",
+    "ecr_pos": "25.7"
+  },
+  {
+    "player": "Chig Okonkwo",
+    "age": "26.1",
+    "ecr_1qb": "177.8",
+    "ecr_2qb": "189.5",
+    "ecr_pos": "28.3"
+  },
+  {
+    "player": "Ray Davis",
+    "age": "25.9",
+    "ecr_1qb": "178",
+    "ecr_2qb": "188.8",
+    "ecr_pos": "50.4"
+  },
+  {
+    "player": "Dont'e Thornton Jr.",
+    "age": "22.8",
+    "ecr_1qb": "178.3",
+    "ecr_2qb": "188.7",
+    "ecr_pos": "75.5"
+  },
+  {
+    "player": "Cade Otton",
+    "age": "26.5",
+    "ecr_1qb": "180",
+    "ecr_2qb": "190",
+    "ecr_pos": "28.3"
+  },
+  {
+    "player": "Hunter Henry",
+    "age": "30.8",
+    "ecr_1qb": "180",
+    "ecr_2qb": "191",
+    "ecr_pos": "28"
+  },
+  {
+    "player": "Daniel Jones",
+    "age": "28.3",
+    "ecr_1qb": "181.8",
+    "ecr_2qb": "112.2",
+    "ecr_pos": "29.7"
+  },
+  {
+    "player": "Joshua Palmer",
+    "age": "26",
+    "ecr_1qb": "183",
+    "ecr_2qb": "194",
+    "ecr_pos": "84"
+  },
+  {
+    "player": "Juwan Johnson",
+    "age": "29",
+    "ecr_1qb": "184.2",
+    "ecr_2qb": "190.8",
+    "ecr_pos": "27"
+  },
+  {
+    "player": "Tyler Shough",
+    "age": "26",
+    "ecr_1qb": "185.5",
+    "ecr_2qb": "148",
+    "ecr_pos": "32.3"
+  },
+  {
+    "player": "Savion Williams",
+    "age": "23.8",
+    "ecr_1qb": "185.5",
+    "ecr_2qb": "205.5",
     "ecr_pos": "83"
   },
   {
-    "player": "Rico Dowdle",
-    "age": "27.3",
-    "ecr_1qb": "184.5",
-    "ecr_2qb": "202.5",
-    "ecr_pos": "60.3"
+    "player": "Woody Marks",
+    "age": "24.7",
+    "ecr_1qb": "186.5",
+    "ecr_2qb": "195",
+    "ecr_pos": "52.6"
   },
   {
-    "player": "Michael Mayer",
-    "age": "24.2",
-    "ecr_1qb": "185.3",
-    "ecr_2qb": "188.7",
+    "player": "Christian Watson",
+    "age": "26.4",
+    "ecr_1qb": "187.8",
+    "ecr_2qb": "199",
+    "ecr_pos": "85.3"
+  },
+  {
+    "player": "Dalton Schultz",
+    "age": "29.2",
+    "ecr_1qb": "188.7",
+    "ecr_2qb": "202",
+    "ecr_pos": "32.7"
+  },
+  {
+    "player": "DJ Giddens",
+    "age": "22.1",
+    "ecr_1qb": "188.8",
+    "ecr_2qb": "198.5",
+    "ecr_pos": "49.4"
+  },
+  {
+    "player": "Ben Sinnott",
+    "age": "23.3",
+    "ecr_1qb": "191.4",
+    "ecr_2qb": "189.6",
+    "ecr_pos": "30"
+  },
+  {
+    "player": "DeAndre Hopkins",
+    "age": "33.3",
+    "ecr_1qb": "192.2",
+    "ecr_2qb": "203.2",
+    "ecr_pos": "84.3"
+  },
+  {
+    "player": "Zach Ertz",
+    "age": "34.9",
+    "ecr_1qb": "192.2",
+    "ecr_2qb": "203.2",
     "ecr_pos": "31.7"
   },
   {
-    "player": "Mike Gesicki",
-    "age": "30",
-    "ecr_1qb": "186",
-    "ecr_2qb": "193.7",
+    "player": "Aaron Rodgers",
+    "age": "41.8",
+    "ecr_1qb": "195",
+    "ecr_2qb": "142.8",
     "ecr_pos": "32.7"
   },
   {
     "player": "Blake Corum",
     "age": "24.8",
-    "ecr_1qb": "186",
-    "ecr_2qb": "204",
-    "ecr_pos": "53"
+    "ecr_1qb": "196.2",
+    "ecr_2qb": "206.5",
+    "ecr_pos": "54"
   },
   {
-    "player": "Dalton Schultz",
-    "age": "29.2",
-    "ecr_1qb": "187",
-    "ecr_2qb": "205",
-    "ecr_pos": "32.3"
-  },
-  {
-    "player": "DeAndre Hopkins",
-    "age": "33.3",
-    "ecr_1qb": "189.5",
-    "ecr_2qb": "207.5",
-    "ecr_pos": "84"
-  },
-  {
-    "player": "Kendre Miller",
-    "age": "23.3",
-    "ecr_1qb": "190",
-    "ecr_2qb": "203",
-    "ecr_pos": "60.3"
+    "player": "Rico Dowdle",
+    "age": "27.3",
+    "ecr_1qb": "196.2",
+    "ecr_2qb": "207.2",
+    "ecr_pos": "58.4"
   },
   {
     "player": "Isaac Guerendo",
     "age": "25.2",
-    "ecr_1qb": "190",
-    "ecr_2qb": "208",
-    "ecr_pos": "54.7"
+    "ecr_1qb": "197.2",
+    "ecr_2qb": "207.5",
+    "ecr_pos": "55.4"
   },
   {
-    "player": "Hunter Henry",
-    "age": "30.8",
-    "ecr_1qb": "190.5",
-    "ecr_2qb": "209",
-    "ecr_pos": "32.7"
+    "player": "Jarquez Hunter",
+    "age": "22.7",
+    "ecr_1qb": "197.5",
+    "ecr_2qb": "205.8",
+    "ecr_pos": "50.6"
   },
   {
-    "player": "Jaylen Wright",
-    "age": "22.5",
-    "ecr_1qb": "191.5",
-    "ecr_2qb": "208",
-    "ecr_pos": "48.7"
+    "player": "Kayshon Boutte",
+    "age": "23.4",
+    "ecr_1qb": "199",
+    "ecr_2qb": "207.8",
+    "ecr_pos": "88"
   },
   {
-    "player": "Christian Watson",
-    "age": "26.4",
-    "ecr_1qb": "192",
-    "ecr_2qb": "210.5",
-    "ecr_pos": "79.7"
+    "player": "Isaiah Bond",
+    "age": "NA",
+    "ecr_1qb": "199",
+    "ecr_2qb": "221.5",
+    "ecr_pos": "89.5"
+  },
+  {
+    "player": "Andrei Iosivas",
+    "age": "25.9",
+    "ecr_1qb": "199.3",
+    "ecr_2qb": "212.7",
+    "ecr_pos": "88.7"
   },
   {
     "player": "Michael Wilson",
     "age": "25.6",
-    "ecr_1qb": "194",
-    "ecr_2qb": "212.5",
-    "ecr_pos": "86"
+    "ecr_1qb": "199.8",
+    "ecr_2qb": "210.2",
+    "ecr_pos": "87.7"
   },
   {
-    "player": "Zach Ertz",
-    "age": "34.9",
-    "ecr_1qb": "194",
-    "ecr_2qb": "212.5",
-    "ecr_pos": "32"
-  },
-  {
-    "player": "Shedeur Sanders",
-    "age": "23.6",
-    "ecr_1qb": "198",
-    "ecr_2qb": "149.5",
-    "ecr_pos": "33.3"
-  },
-  {
-    "player": "Brashard Smith",
-    "age": "22.4",
-    "ecr_1qb": "198",
-    "ecr_2qb": "214.5",
-    "ecr_pos": "63"
-  },
-  {
-    "player": "Chig Okonkwo",
-    "age": "26",
-    "ecr_1qb": "198",
-    "ecr_2qb": "216.5",
-    "ecr_pos": "33.3"
-  },
-  {
-    "player": "Juwan Johnson",
-    "age": "29",
-    "ecr_1qb": "198.5",
-    "ecr_2qb": "215",
-    "ecr_pos": "33.5"
-  },
-  {
-    "player": "Roschon Johnson",
-    "age": "24.6",
-    "ecr_1qb": "198.5",
-    "ecr_2qb": "215",
-    "ecr_pos": "65.7"
-  },
-  {
-    "player": "Kirk Cousins",
-    "age": "37.1",
-    "ecr_1qb": "199",
-    "ecr_2qb": "187.5",
-    "ecr_pos": "35"
-  },
-  {
-    "player": "Jerome Ford",
-    "age": "26",
-    "ecr_1qb": "201",
-    "ecr_2qb": "217",
-    "ecr_pos": "65"
+    "player": "Roman Wilson",
+    "age": "24.3",
+    "ecr_1qb": "201.3",
+    "ecr_2qb": "215.3",
+    "ecr_pos": "88"
   },
   {
     "player": "Cole Kmet",
     "age": "26.5",
     "ecr_1qb": "201.5",
-    "ecr_2qb": "220",
-    "ecr_pos": "34"
-  },
-  {
-    "player": "Will Shipley",
-    "age": "23.1",
-    "ecr_1qb": "203.5",
-    "ecr_2qb": "222",
-    "ecr_pos": "71.3"
-  },
-  {
-    "player": "Noah Fant",
-    "age": "27.8",
-    "ecr_1qb": "203.5",
-    "ecr_2qb": "221",
-    "ecr_pos": "34.3"
-  },
-  {
-    "player": "Jalen Milroe",
-    "age": "22.8",
-    "ecr_1qb": "204.5",
-    "ecr_2qb": "123.5",
-    "ecr_pos": "32.3"
-  },
-  {
-    "player": "Tahj Brooks",
-    "age": "23.4",
-    "ecr_1qb": "206.5",
-    "ecr_2qb": "223.5",
-    "ecr_pos": "65.7"
-  },
-  {
-    "player": "Austin Ekeler",
-    "age": "30.3",
-    "ecr_1qb": "212",
-    "ecr_2qb": "214.5",
-    "ecr_pos": "61.7"
-  },
-  {
-    "player": "Noah Gray",
-    "age": "26.4",
-    "ecr_1qb": "218.5",
-    "ecr_2qb": "226.5",
-    "ecr_pos": "37"
-  },
-  {
-    "player": "Luke Musgrave",
-    "age": "25",
-    "ecr_1qb": "223",
-    "ecr_2qb": "242.5",
-    "ecr_pos": "36.7"
-  },
-  {
-    "player": "MarShawn Lloyd",
-    "age": "24.7",
-    "ecr_1qb": "223.5",
-    "ecr_2qb": "340.6",
-    "ecr_pos": "69.3"
-  },
-  {
-    "player": "Devin Neal",
-    "age": "22.1",
-    "ecr_1qb": "237",
-    "ecr_2qb": "245",
-    "ecr_pos": "59"
-  },
-  {
-    "player": "Antonio Gibson",
-    "age": "27.2",
-    "ecr_1qb": "240.5",
-    "ecr_2qb": "245.5",
-    "ecr_pos": "75"
-  },
-  {
-    "player": "Miles Sanders",
-    "age": "28.4",
-    "ecr_1qb": "246",
-    "ecr_2qb": "247",
-    "ecr_pos": "78.7"
-  },
-  {
-    "player": "Devin Singletary",
-    "age": "28",
-    "ecr_1qb": "248.5",
-    "ecr_2qb": "256",
-    "ecr_pos": "73.3"
-  },
-  {
-    "player": "Kareem Hunt",
-    "age": "30.1",
-    "ecr_1qb": "249.5",
-    "ecr_2qb": "250.5",
-    "ecr_pos": "78"
-  },
-  {
-    "player": "Kimani Vidal",
-    "age": "NA",
-    "ecr_1qb": "250",
-    "ecr_2qb": "255",
-    "ecr_pos": "76"
-  },
-  {
-    "player": "Jacory Croskey-Merritt",
-    "age": "24.4",
-    "ecr_1qb": "304.3",
-    "ecr_2qb": "304.3",
-    "ecr_pos": "33"
-  },
-  {
-    "player": "Ollie Gordon II",
-    "age": "21.7",
-    "ecr_1qb": "322.3",
-    "ecr_2qb": "322.3",
-    "ecr_pos": "51"
-  },
-  {
-    "player": "Woody Marks",
-    "age": "24.7",
-    "ecr_1qb": "325.8",
-    "ecr_2qb": "325.8",
-    "ecr_pos": "54.5"
-  },
-  {
-    "player": "Kyle Monangai",
-    "age": "23.3",
-    "ecr_1qb": "330.3",
-    "ecr_2qb": "330.3",
-    "ecr_pos": "59"
-  },
-  {
-    "player": "Trevor Etienne",
-    "age": "21.2",
-    "ecr_1qb": "332.3",
-    "ecr_2qb": "332.3",
-    "ecr_pos": "61"
-  },
-  {
-    "player": "Audric Estime",
-    "age": "NA",
-    "ecr_1qb": "338.8",
-    "ecr_2qb": "338.8",
-    "ecr_pos": "67.5"
-  },
-  {
-    "player": "Jaleel McLaughlin",
-    "age": "25",
-    "ecr_1qb": "339.3",
-    "ecr_2qb": "339.3",
-    "ecr_pos": "68"
-  },
-  {
-    "player": "Jordan James",
-    "age": "21.5",
-    "ecr_1qb": "341.3",
-    "ecr_2qb": "341.3",
-    "ecr_pos": "70"
-  },
-  {
-    "player": "Damien Martinez",
-    "age": "21.6",
-    "ecr_1qb": "341.8",
-    "ecr_2qb": "341.8",
-    "ecr_pos": "70.5"
-  },
-  {
-    "player": "Andrei Iosivas",
-    "age": "25.9",
-    "ecr_1qb": "344",
-    "ecr_2qb": "344",
-    "ecr_pos": "80"
-  },
-  {
-    "player": "Kenneth Gainwell",
-    "age": "26.5",
-    "ecr_1qb": "344.3",
-    "ecr_2qb": "344.3",
-    "ecr_pos": "73"
-  },
-  {
-    "player": "Zack Moss",
-    "age": "27.8",
-    "ecr_1qb": "346.3",
-    "ecr_2qb": "346.3",
-    "ecr_pos": "75"
-  },
-  {
-    "player": "Sean Tucker",
-    "age": "23.9",
-    "ecr_1qb": "346.8",
-    "ecr_2qb": "346.8",
-    "ecr_pos": "75.5"
-  },
-  {
-    "player": "Tyler Shough",
-    "age": "26",
-    "ecr_1qb": "347.3",
-    "ecr_2qb": "345.3",
-    "ecr_pos": "32.3"
-  },
-  {
-    "player": "Raheem Mostert",
-    "age": "33.4",
-    "ecr_1qb": "347.3",
-    "ecr_2qb": "347.3",
-    "ecr_pos": "76"
-  },
-  {
-    "player": "Dameon Pierce",
-    "age": "25.6",
-    "ecr_1qb": "347.3",
-    "ecr_2qb": "347.3",
-    "ecr_pos": "76"
-  },
-  {
-    "player": "Raheim Sanders",
-    "age": "NA",
-    "ecr_1qb": "347.3",
-    "ecr_2qb": "347.3",
-    "ecr_pos": "76"
-  },
-  {
-    "player": "AJ Barner",
-    "age": "23.4",
-    "ecr_1qb": "348",
-    "ecr_2qb": "348",
-    "ecr_pos": "35"
-  },
-  {
-    "player": "Keaton Mitchell",
-    "age": "23.7",
-    "ecr_1qb": "348.8",
-    "ecr_2qb": "348.8",
-    "ecr_pos": "77.5"
-  },
-  {
-    "player": "Malik Washington",
-    "age": "24.7",
-    "ecr_1qb": "349",
-    "ecr_2qb": "349",
-    "ecr_pos": "85"
-  },
-  {
-    "player": "Elijah Mitchell",
-    "age": "27.4",
-    "ecr_1qb": "349.3",
-    "ecr_2qb": "349.3",
-    "ecr_pos": "78"
-  },
-  {
-    "player": "Khalil Herbert",
-    "age": "NA",
-    "ecr_1qb": "349.3",
-    "ecr_2qb": "349.3",
-    "ecr_pos": "78"
-  },
-  {
-    "player": "Justice Hill",
-    "age": "27.8",
-    "ecr_1qb": "349.8",
-    "ecr_2qb": "349.8",
-    "ecr_pos": "78.5"
-  },
-  {
-    "player": "Efton Chism III",
-    "age": "23.9",
-    "ecr_1qb": "350",
-    "ecr_2qb": "350",
-    "ecr_pos": "86"
-  },
-  {
-    "player": "Russell Wilson",
-    "age": "36.8",
-    "ecr_1qb": "350.7",
-    "ecr_2qb": "348.7",
-    "ecr_pos": "35.7"
-  },
-  {
-    "player": "Dyami Brown",
-    "age": "25.9",
-    "ecr_1qb": "351",
-    "ecr_2qb": "351",
-    "ecr_pos": "87"
-  },
-  {
-    "player": "Aaron Rodgers",
-    "age": "41.8",
-    "ecr_1qb": "352",
-    "ecr_2qb": "141.5",
-    "ecr_pos": "37"
-  },
-  {
-    "player": "Will Levis",
-    "age": "26.2",
-    "ecr_1qb": "352",
-    "ecr_2qb": "350",
-    "ecr_pos": "37"
-  },
-  {
-    "player": "Roman Wilson",
-    "age": "24.3",
-    "ecr_1qb": "352",
-    "ecr_2qb": "352",
-    "ecr_pos": "88"
-  },
-  {
-    "player": "Donovan Edwards",
-    "age": "NA",
-    "ecr_1qb": "352.3",
-    "ecr_2qb": "352.3",
-    "ecr_pos": "81"
-  },
-  {
-    "player": "Will Howard",
-    "age": "24",
-    "ecr_1qb": "353",
-    "ecr_2qb": "351",
-    "ecr_pos": "38"
-  },
-  {
-    "player": "Spencer Rattler",
-    "age": "25",
-    "ecr_1qb": "353",
-    "ecr_2qb": "351",
-    "ecr_pos": "38"
-  },
-  {
-    "player": "Cade Stover",
-    "age": "25.3",
-    "ecr_1qb": "353",
-    "ecr_2qb": "353",
-    "ecr_pos": "40"
-  },
-  {
-    "player": "KeAndre Lambert-Smith",
-    "age": "23.9",
-    "ecr_1qb": "353",
-    "ecr_2qb": "353",
-    "ecr_pos": "89"
-  },
-  {
-    "player": "Ty Chandler",
-    "age": "27.4",
-    "ecr_1qb": "353.3",
-    "ecr_2qb": "353.3",
-    "ecr_pos": "82"
-  },
-  {
-    "player": "LeQuint Allen Jr.",
-    "age": "21.1",
-    "ecr_1qb": "353.3",
-    "ecr_2qb": "353.3",
-    "ecr_pos": "82"
-  },
-  {
-    "player": "Jameis Winston",
-    "age": "31.7",
-    "ecr_1qb": "353.7",
-    "ecr_2qb": "351.7",
-    "ecr_pos": "38.7"
-  },
-  {
-    "player": "Gunnar Helm",
-    "age": "23",
-    "ecr_1qb": "354",
-    "ecr_2qb": "354",
-    "ecr_pos": "41"
-  },
-  {
-    "player": "Elijah Moore",
-    "age": "25.5",
-    "ecr_1qb": "354.5",
-    "ecr_2qb": "354.5",
-    "ecr_pos": "90.5"
-  },
-  {
-    "player": "Will Dissly",
-    "age": "29.2",
-    "ecr_1qb": "355",
-    "ecr_2qb": "355",
-    "ecr_pos": "42"
-  },
-  {
-    "player": "Kalel Mullings",
-    "age": "23",
-    "ecr_1qb": "355.3",
-    "ecr_2qb": "355.3",
-    "ecr_pos": "84"
-  },
-  {
-    "player": "Adam Thielen",
-    "age": "NA",
-    "ecr_1qb": "355.5",
-    "ecr_2qb": "355.5",
-    "ecr_pos": "91.5"
-  },
-  {
-    "player": "Joe Milton III",
-    "age": "25.5",
-    "ecr_1qb": "356",
-    "ecr_2qb": "354",
-    "ecr_pos": "41"
-  },
-  {
-    "player": "Sam Howell",
-    "age": "NA",
-    "ecr_1qb": "356",
-    "ecr_2qb": "354",
-    "ecr_pos": "41"
+    "ecr_2qb": "212.2",
+    "ecr_pos": "35.3"
   },
   {
     "player": "Alec Pierce",
     "age": "25.4",
-    "ecr_1qb": "356",
-    "ecr_2qb": "356",
-    "ecr_pos": "92"
-  },
-  {
-    "player": "Jalen Tolbert",
-    "age": "26.6",
-    "ecr_1qb": "356",
-    "ecr_2qb": "356",
-    "ecr_pos": "92"
-  },
-  {
-    "player": "Deshaun Watson",
-    "age": "NA",
-    "ecr_1qb": "357",
-    "ecr_2qb": "355",
-    "ecr_pos": "42"
-  },
-  {
-    "player": "Gardner Minshew II",
-    "age": "29.3",
-    "ecr_1qb": "357",
-    "ecr_2qb": "355",
-    "ecr_pos": "42"
-  },
-  {
-    "player": "Darnell Washington",
-    "age": "24.1",
-    "ecr_1qb": "357",
-    "ecr_2qb": "357",
-    "ecr_pos": "44"
-  },
-  {
-    "player": "Savion Williams",
-    "age": "23.8",
-    "ecr_1qb": "357",
-    "ecr_2qb": "357",
-    "ecr_pos": "93"
-  },
-  {
-    "player": "Alexander Mattison",
-    "age": "27.3",
-    "ecr_1qb": "357.3",
-    "ecr_2qb": "357.3",
-    "ecr_pos": "86"
-  },
-  {
-    "player": "A.J. Dillon",
-    "age": "27.4",
-    "ecr_1qb": "357.3",
-    "ecr_2qb": "357.3",
-    "ecr_pos": "86"
-  },
-  {
-    "player": "Tyler Higbee",
-    "age": "32.7",
-    "ecr_1qb": "358",
-    "ecr_2qb": "358",
-    "ecr_pos": "45"
-  },
-  {
-    "player": "Diontae Johnson",
-    "age": "NA",
-    "ecr_1qb": "358",
-    "ecr_2qb": "358",
-    "ecr_pos": "94"
-  },
-  {
-    "player": "Isaiah Davis",
-    "age": "23.6",
-    "ecr_1qb": "358.3",
-    "ecr_2qb": "358.3",
-    "ecr_pos": "87"
-  },
-  {
-    "player": "Kenny Pickett",
-    "age": "NA",
-    "ecr_1qb": "358.5",
-    "ecr_2qb": "356.5",
-    "ecr_pos": "43.5"
-  },
-  {
-    "player": "Tyler Conklin",
-    "age": "30.1",
-    "ecr_1qb": "359",
-    "ecr_2qb": "359",
-    "ecr_pos": "46"
-  },
-  {
-    "player": "Mac Jones",
-    "age": "27",
-    "ecr_1qb": "360",
-    "ecr_2qb": "358",
-    "ecr_pos": "45"
-  },
-  {
-    "player": "Erick All Jr.",
-    "age": "25",
-    "ecr_1qb": "360",
-    "ecr_2qb": "360",
-    "ecr_pos": "47"
-  },
-  {
-    "player": "Devaughn Vele",
-    "age": "NA",
-    "ecr_1qb": "360",
-    "ecr_2qb": "360",
-    "ecr_pos": "96"
-  },
-  {
-    "player": "Cam Akers",
-    "age": "NA",
-    "ecr_1qb": "360.3",
-    "ecr_2qb": "360.3",
+    "ecr_1qb": "201.7",
+    "ecr_2qb": "216",
     "ecr_pos": "89"
   },
   {
-    "player": "Quinn Ewers",
-    "age": "22.4",
-    "ecr_1qb": "361",
-    "ecr_2qb": "359",
-    "ecr_pos": "46"
-  },
-  {
-    "player": "Aidan O'Connell",
-    "age": "27",
-    "ecr_1qb": "361",
-    "ecr_2qb": "359",
-    "ecr_pos": "46"
-  },
-  {
-    "player": "Drew Lock",
-    "age": "28.9",
-    "ecr_1qb": "361",
-    "ecr_2qb": "359",
-    "ecr_pos": "46"
-  },
-  {
-    "player": "Dillon Gabriel",
+    "player": "Malik Washington",
     "age": "24.7",
-    "ecr_1qb": "361.3",
-    "ecr_2qb": "359.3",
-    "ecr_pos": "46.3"
+    "ecr_1qb": "202",
+    "ecr_2qb": "218.5",
+    "ecr_pos": "93.7"
   },
   {
-    "player": "Joe Flacco",
-    "age": "40.7",
-    "ecr_1qb": "361.5",
-    "ecr_2qb": "359.5",
-    "ecr_pos": "46.5"
+    "player": "Jalen Milroe",
+    "age": "22.8",
+    "ecr_1qb": "204.2",
+    "ecr_2qb": "134",
+    "ecr_pos": "30.7"
   },
   {
-    "player": "Mason Rudolph",
-    "age": "30.2",
-    "ecr_1qb": "361.7",
-    "ecr_2qb": "359.7",
-    "ecr_pos": "46.7"
-  },
-  {
-    "player": "Desmond Ridder",
-    "age": "NA",
-    "ecr_1qb": "362",
-    "ecr_2qb": "360",
-    "ecr_pos": "47"
-  },
-  {
-    "player": "Tre Tucker",
-    "age": "24.5",
-    "ecr_1qb": "362",
-    "ecr_2qb": "362",
-    "ecr_pos": "98"
-  },
-  {
-    "player": "Parker Washington",
-    "age": "23.5",
-    "ecr_1qb": "363",
-    "ecr_2qb": "363",
-    "ecr_pos": "99"
-  },
-  {
-    "player": "Trey Lance",
+    "player": "Tyler Allgeier",
     "age": "25.4",
-    "ecr_1qb": "364",
-    "ecr_2qb": "362",
-    "ecr_pos": "49"
+    "ecr_1qb": "205.2",
+    "ecr_2qb": "210.2",
+    "ecr_pos": "59"
   },
   {
-    "player": "Luke McCaffrey",
-    "age": "24.5",
-    "ecr_1qb": "365",
-    "ecr_2qb": "365",
-    "ecr_pos": "101"
+    "player": "Mike Gesicki",
+    "age": "30",
+    "ecr_1qb": "206.2",
+    "ecr_2qb": "208.4",
+    "ecr_pos": "37.7"
   },
   {
-    "player": "Malik Willis",
-    "age": "26.3",
-    "ecr_1qb": "366",
-    "ecr_2qb": "364",
-    "ecr_pos": "51"
+    "player": "Kyle Monangai",
+    "age": "23.3",
+    "ecr_1qb": "208",
+    "ecr_2qb": "215.7",
+    "ecr_pos": "60.7"
+  },
+  {
+    "player": "Michael Mayer",
+    "age": "24.2",
+    "ecr_1qb": "208.8",
+    "ecr_2qb": "205.8",
+    "ecr_pos": "38.7"
+  },
+  {
+    "player": "Roschon Johnson",
+    "age": "24.7",
+    "ecr_1qb": "210",
+    "ecr_2qb": "218.5",
+    "ecr_pos": "63.4"
+  },
+  {
+    "player": "Noah Fant",
+    "age": "27.8",
+    "ecr_1qb": "211",
+    "ecr_2qb": "223",
+    "ecr_pos": "40.3"
+  },
+  {
+    "player": "Brashard Smith",
+    "age": "22.5",
+    "ecr_1qb": "212",
+    "ecr_2qb": "220.2",
+    "ecr_pos": "61.8"
+  },
+  {
+    "player": "Jaylen Wright",
+    "age": "22.5",
+    "ecr_1qb": "212.2",
+    "ecr_2qb": "220.5",
+    "ecr_pos": "55.4"
+  },
+  {
+    "player": "Shedeur Sanders",
+    "age": "23.6",
+    "ecr_1qb": "214",
+    "ecr_2qb": "151.5",
+    "ecr_pos": "36.3"
   },
   {
     "player": "Jordan Whittington",
     "age": "25",
-    "ecr_1qb": "366",
-    "ecr_2qb": "366",
-    "ecr_pos": "102"
+    "ecr_1qb": "214",
+    "ecr_2qb": "235.5",
+    "ecr_pos": "99.7"
   },
   {
-    "player": "Tez Johnson",
-    "age": "23.3",
-    "ecr_1qb": "368",
-    "ecr_2qb": "368",
-    "ecr_pos": "104"
+    "player": "Kirk Cousins",
+    "age": "37.1",
+    "ecr_1qb": "215",
+    "ecr_2qb": "188",
+    "ecr_pos": "38.5"
   },
   {
-    "player": "Tai Felton",
-    "age": "22.5",
-    "ecr_1qb": "369",
-    "ecr_2qb": "369",
-    "ecr_pos": "105"
-  },
-  {
-    "player": "Isaiah Bond",
-    "age": "NA",
-    "ecr_1qb": "370",
-    "ecr_2qb": "370",
-    "ecr_pos": "106"
-  },
-  {
-    "player": "Riley Leonard",
-    "age": "23",
-    "ecr_1qb": "371",
-    "ecr_2qb": "369",
-    "ecr_pos": "56"
-  },
-  {
-    "player": "Xavier Restrepo",
+    "player": "Tahj Brooks",
     "age": "23.4",
-    "ecr_1qb": "371",
-    "ecr_2qb": "371",
-    "ecr_pos": "107"
+    "ecr_1qb": "216.5",
+    "ecr_2qb": "223.2",
+    "ecr_pos": "64.4"
   },
   {
-    "player": "Kyle McCord",
-    "age": "23",
-    "ecr_1qb": "372",
-    "ecr_2qb": "370",
-    "ecr_pos": "57"
+    "player": "Jalen Tolbert",
+    "age": "26.6",
+    "ecr_1qb": "219",
+    "ecr_2qb": "334.5",
+    "ecr_pos": "96.5"
   },
   {
-    "player": "Nick Nash",
+    "player": "Adam Thielen",
     "age": "NA",
-    "ecr_1qb": "372",
-    "ecr_2qb": "372",
-    "ecr_pos": "108"
+    "ecr_1qb": "221.3",
+    "ecr_2qb": "234.3",
+    "ecr_pos": "96.3"
   },
   {
-    "player": "Jalin Hyatt",
-    "age": "24",
-    "ecr_1qb": "373",
-    "ecr_2qb": "373",
-    "ecr_pos": "109"
+    "player": "Russell Wilson",
+    "age": "36.8",
+    "ecr_1qb": "221.7",
+    "ecr_2qb": "175.5",
+    "ecr_pos": "34.3"
   },
   {
-    "player": "Jaylin Lane",
-    "age": "23.4",
-    "ecr_1qb": "374",
-    "ecr_2qb": "374",
-    "ecr_pos": "110"
-  },
-  {
-    "player": "Nick Westbrook-Ikhine",
-    "age": "28.5",
-    "ecr_1qb": "375",
-    "ecr_2qb": "375",
-    "ecr_pos": "111"
-  },
-  {
-    "player": "Ricky White III",
-    "age": "NA",
-    "ecr_1qb": "376",
-    "ecr_2qb": "376",
-    "ecr_pos": "112"
-  },
-  {
-    "player": "Tutu Atwell",
-    "age": "26",
-    "ecr_1qb": "377",
-    "ecr_2qb": "377",
-    "ecr_pos": "113"
-  },
-  {
-    "player": "Malachi Corley",
-    "age": "NA",
-    "ecr_1qb": "378",
-    "ecr_2qb": "378",
-    "ecr_pos": "114"
-  },
-  {
-    "player": "Javon Baker",
-    "age": "NA",
-    "ecr_1qb": "379",
-    "ecr_2qb": "379",
-    "ecr_pos": "115"
+    "player": "Luke McCaffrey",
+    "age": "24.5",
+    "ecr_1qb": "222.5",
+    "ecr_2qb": "242",
+    "ecr_pos": "97.5"
   },
   {
     "player": "Ja'Lynn Polk",
     "age": "NA",
-    "ecr_1qb": "380",
-    "ecr_2qb": "380",
-    "ecr_pos": "116"
+    "ecr_1qb": "223.5",
+    "ecr_2qb": "247.5",
+    "ecr_pos": "100"
   },
   {
-    "player": "Jake Bobo",
-    "age": "27.1",
-    "ecr_1qb": "381",
-    "ecr_2qb": "381",
-    "ecr_pos": "117"
+    "player": "Gunnar Helm",
+    "age": "23.1",
+    "ecr_1qb": "225.5",
+    "ecr_2qb": "216",
+    "ecr_pos": "34"
+  },
+  {
+    "player": "Luke Musgrave",
+    "age": "25.1",
+    "ecr_1qb": "225.7",
+    "ecr_2qb": "238.3",
+    "ecr_pos": "40"
+  },
+  {
+    "player": "Nick Chubb",
+    "age": "29.7",
+    "ecr_1qb": "225.8",
+    "ecr_2qb": "222",
+    "ecr_pos": "61.2"
+  },
+  {
+    "player": "Nick Westbrook-Ikhine",
+    "age": "28.5",
+    "ecr_1qb": "226",
+    "ecr_2qb": "247.5",
+    "ecr_pos": "100"
+  },
+  {
+    "player": "Elijah Moore",
+    "age": "25.5",
+    "ecr_1qb": "226.3",
+    "ecr_2qb": "239",
+    "ecr_pos": "97"
+  },
+  {
+    "player": "Joe Flacco",
+    "age": "40.7",
+    "ecr_1qb": "228",
+    "ecr_2qb": "150.5",
+    "ecr_pos": "33.5"
+  },
+  {
+    "player": "Kendre Miller",
+    "age": "23.3",
+    "ecr_1qb": "230.8",
+    "ecr_2qb": "225.8",
+    "ecr_pos": "64"
+  },
+  {
+    "player": "Jerome Ford",
+    "age": "26",
+    "ecr_1qb": "232.5",
+    "ecr_2qb": "233",
+    "ecr_pos": "66.4"
+  },
+  {
+    "player": "Tyler Higbee",
+    "age": "32.7",
+    "ecr_1qb": "233.5",
+    "ecr_2qb": "255.5",
+    "ecr_pos": "40"
+  },
+  {
+    "player": "Will Shipley",
+    "age": "23.1",
+    "ecr_1qb": "234",
+    "ecr_2qb": "233.8",
+    "ecr_pos": "70.8"
+  },
+  {
+    "player": "Parker Washington",
+    "age": "23.5",
+    "ecr_1qb": "235.5",
+    "ecr_2qb": "246.5",
+    "ecr_pos": "102.3"
+  },
+  {
+    "player": "MarShawn Lloyd",
+    "age": "24.7",
+    "ecr_1qb": "236",
+    "ecr_2qb": "233.5",
+    "ecr_pos": "68"
+  },
+  {
+    "player": "Noah Gray",
+    "age": "26.4",
+    "ecr_1qb": "240.3",
+    "ecr_2qb": "237.7",
+    "ecr_pos": "39.3"
+  },
+  {
+    "player": "Devaughn Vele",
+    "age": "NA",
+    "ecr_1qb": "241.5",
+    "ecr_2qb": "250.5",
+    "ecr_pos": "105"
+  },
+  {
+    "player": "Darius Slayton",
+    "age": "28.7",
+    "ecr_1qb": "242",
+    "ecr_2qb": "235",
+    "ecr_pos": "99.5"
+  },
+  {
+    "player": "Devin Neal",
+    "age": "22.1",
+    "ecr_1qb": "242.5",
+    "ecr_2qb": "238.5",
+    "ecr_pos": "64"
+  },
+  {
+    "player": "Jameis Winston",
+    "age": "31.7",
+    "ecr_1qb": "243.5",
+    "ecr_2qb": "353",
+    "ecr_pos": "41.5"
+  },
+  {
+    "player": "Will Levis",
+    "age": "26.3",
+    "ecr_1qb": "244",
+    "ecr_2qb": "350.5",
+    "ecr_pos": "39"
+  },
+  {
+    "player": "Damien Martinez",
+    "age": "21.7",
+    "ecr_1qb": "244",
+    "ecr_2qb": "256.5",
+    "ecr_pos": "71.7"
+  },
+  {
+    "player": "Javon Baker",
+    "age": "NA",
+    "ecr_1qb": "244",
+    "ecr_2qb": "264",
+    "ecr_pos": "108"
   },
   {
     "player": "Tyler Lockett",
     "age": "33",
-    "ecr_1qb": "382",
-    "ecr_2qb": "382",
-    "ecr_pos": "118"
+    "ecr_1qb": "244.5",
+    "ecr_2qb": "265.5",
+    "ecr_pos": "104.3"
+  },
+  {
+    "player": "Tez Johnson",
+    "age": "23.4",
+    "ecr_1qb": "246",
+    "ecr_2qb": "258.5",
+    "ecr_pos": "107.3"
+  },
+  {
+    "player": "Miles Sanders",
+    "age": "28.4",
+    "ecr_1qb": "247.3",
+    "ecr_2qb": "245.3",
+    "ecr_pos": "78.6"
+  },
+  {
+    "player": "Austin Ekeler",
+    "age": "30.4",
+    "ecr_1qb": "248.2",
+    "ecr_2qb": "239.2",
+    "ecr_pos": "68.4"
+  },
+  {
+    "player": "Trevor Etienne",
+    "age": "21.2",
+    "ecr_1qb": "250.3",
+    "ecr_2qb": "242.3",
+    "ecr_pos": "72.7"
+  },
+  {
+    "player": "Jalin Hyatt",
+    "age": "24",
+    "ecr_1qb": "251.5",
+    "ecr_2qb": "263",
+    "ecr_pos": "110.5"
+  },
+  {
+    "player": "Jaleel McLaughlin",
+    "age": "25",
+    "ecr_1qb": "253.7",
+    "ecr_2qb": "248.7",
+    "ecr_pos": "71.2"
+  },
+  {
+    "player": "Malachi Corley",
+    "age": "NA",
+    "ecr_1qb": "255",
+    "ecr_2qb": "269",
+    "ecr_pos": "111"
   },
   {
     "player": "Jahan Dotson",
     "age": "25.5",
-    "ecr_1qb": "383",
-    "ecr_2qb": "383",
-    "ecr_pos": "119"
+    "ecr_1qb": "256",
+    "ecr_2qb": "271",
+    "ecr_pos": "112"
+  },
+  {
+    "player": "Tyler Conklin",
+    "age": "30.2",
+    "ecr_1qb": "258",
+    "ecr_2qb": "272",
+    "ecr_pos": "45"
+  },
+  {
+    "player": "Jordan James",
+    "age": "21.5",
+    "ecr_1qb": "262",
+    "ecr_2qb": "250.7",
+    "ecr_pos": "78.3"
+  },
+  {
+    "player": "Antonio Gibson",
+    "age": "27.3",
+    "ecr_1qb": "262",
+    "ecr_2qb": "253.3",
+    "ecr_pos": "77.4"
+  },
+  {
+    "player": "Kimani Vidal",
+    "age": "NA",
+    "ecr_1qb": "263",
+    "ecr_2qb": "252",
+    "ecr_pos": "77.8"
+  },
+  {
+    "player": "Elijah Mitchell",
+    "age": "27.4",
+    "ecr_1qb": "267",
+    "ecr_2qb": "265",
+    "ecr_pos": "82"
+  },
+  {
+    "player": "Devin Singletary",
+    "age": "28.1",
+    "ecr_1qb": "267.7",
+    "ecr_2qb": "260.7",
+    "ecr_pos": "77.4"
+  },
+  {
+    "player": "Kareem Hunt",
+    "age": "30.1",
+    "ecr_1qb": "268.3",
+    "ecr_2qb": "257",
+    "ecr_pos": "80.4"
+  },
+  {
+    "player": "Keaton Mitchell",
+    "age": "23.7",
+    "ecr_1qb": "269.3",
+    "ecr_2qb": "261.3",
+    "ecr_pos": "77.5"
+  },
+  {
+    "player": "Kenneth Gainwell",
+    "age": "26.5",
+    "ecr_1qb": "276.5",
+    "ecr_2qb": "246.5",
+    "ecr_pos": "77.5"
+  },
+  {
+    "player": "Justice Hill",
+    "age": "27.9",
+    "ecr_1qb": "282",
+    "ecr_2qb": "248.5",
+    "ecr_pos": "78.8"
+  },
+  {
+    "player": "Sean Tucker",
+    "age": "23.9",
+    "ecr_1qb": "283.3",
+    "ecr_2qb": "249.7",
+    "ecr_pos": "77.8"
+  },
+  {
+    "player": "Isaiah Davis",
+    "age": "23.6",
+    "ecr_1qb": "285.5",
+    "ecr_2qb": "254.5",
+    "ecr_pos": "80.7"
+  },
+  {
+    "player": "Dameon Pierce",
+    "age": "25.6",
+    "ecr_1qb": "288.3",
+    "ecr_2qb": "250.3",
+    "ecr_pos": "78.8"
+  },
+  {
+    "player": "Raheem Mostert",
+    "age": "33.5",
+    "ecr_1qb": "300.5",
+    "ecr_2qb": "255",
+    "ecr_pos": "80.3"
+  },
+  {
+    "player": "Jacob Cowing",
+    "age": "24.6",
+    "ecr_1qb": "325",
+    "ecr_2qb": "325",
+    "ecr_pos": "87"
+  },
+  {
+    "player": "Tre Tucker",
+    "age": "24.6",
+    "ecr_1qb": "330",
+    "ecr_2qb": "330",
+    "ecr_pos": "92"
+  },
+  {
+    "player": "KeAndre Lambert-Smith",
+    "age": "23.9",
+    "ecr_1qb": "333",
+    "ecr_2qb": "333",
+    "ecr_pos": "95"
+  },
+  {
+    "player": "Diontae Johnson",
+    "age": "NA",
+    "ecr_1qb": "333",
+    "ecr_2qb": "333",
+    "ecr_pos": "95"
+  },
+  {
+    "player": "Jermaine Burton",
+    "age": "24.2",
+    "ecr_1qb": "334",
+    "ecr_2qb": "334",
+    "ecr_pos": "96"
+  },
+  {
+    "player": "Audric Estime",
+    "age": "NA",
+    "ecr_1qb": "336.5",
+    "ecr_2qb": "336.5",
+    "ecr_pos": "68.5"
+  },
+  {
+    "player": "Dyami Brown",
+    "age": "25.9",
+    "ecr_1qb": "337",
+    "ecr_2qb": "337",
+    "ecr_pos": "99"
+  },
+  {
+    "player": "Efton Chism III",
+    "age": "23.9",
+    "ecr_1qb": "338.5",
+    "ecr_2qb": "338.5",
+    "ecr_pos": "100.5"
+  },
+  {
+    "player": "Xavier Restrepo",
+    "age": "23.5",
+    "ecr_1qb": "340",
+    "ecr_2qb": "340",
+    "ecr_pos": "102"
+  },
+  {
+    "player": "Brandin Cooks",
+    "age": "32",
+    "ecr_1qb": "340",
+    "ecr_2qb": "340",
+    "ecr_pos": "102"
+  },
+  {
+    "player": "Calvin Austin III",
+    "age": "26.5",
+    "ecr_1qb": "341",
+    "ecr_2qb": "341",
+    "ecr_pos": "103"
+  },
+  {
+    "player": "John Metchie III",
+    "age": "NA",
+    "ecr_1qb": "341",
+    "ecr_2qb": "341",
+    "ecr_pos": "103"
+  },
+  {
+    "player": "Curtis Samuel",
+    "age": "29.1",
+    "ecr_1qb": "342",
+    "ecr_2qb": "342",
+    "ecr_pos": "104"
+  },
+  {
+    "player": "AJ Barner",
+    "age": "23.4",
+    "ecr_1qb": "343",
+    "ecr_2qb": "343",
+    "ecr_pos": "38"
+  },
+  {
+    "player": "Tai Felton",
+    "age": "22.5",
+    "ecr_1qb": "343",
+    "ecr_2qb": "343",
+    "ecr_pos": "105"
+  },
+  {
+    "player": "Spencer Rattler",
+    "age": "25",
+    "ecr_1qb": "343.8",
+    "ecr_2qb": "346.8",
+    "ecr_pos": "35.3"
+  },
+  {
+    "player": "Zack Moss",
+    "age": "27.8",
+    "ecr_1qb": "344",
+    "ecr_2qb": "344",
+    "ecr_pos": "76"
+  },
+  {
+    "player": "Olamide Zaccheaus",
+    "age": "28.2",
+    "ecr_1qb": "344",
+    "ecr_2qb": "344",
+    "ecr_pos": "106"
+  },
+  {
+    "player": "Tutu Atwell",
+    "age": "26",
+    "ecr_1qb": "344.5",
+    "ecr_2qb": "344.5",
+    "ecr_pos": "106.5"
+  },
+  {
+    "player": "Jaylin Lane",
+    "age": "23.4",
+    "ecr_1qb": "345",
+    "ecr_2qb": "345",
+    "ecr_pos": "107"
+  },
+  {
+    "player": "Will Howard",
+    "age": "24",
+    "ecr_1qb": "345.5",
+    "ecr_2qb": "348.5",
+    "ecr_pos": "37"
+  },
+  {
+    "player": "Cade Stover",
+    "age": "25.3",
+    "ecr_1qb": "346",
+    "ecr_2qb": "346",
+    "ecr_pos": "41"
+  },
+  {
+    "player": "Taysom Hill",
+    "age": "35.1",
+    "ecr_1qb": "346",
+    "ecr_2qb": "346",
+    "ecr_pos": "41"
+  },
+  {
+    "player": "Grant Calcaterra",
+    "age": "26.8",
+    "ecr_1qb": "346",
+    "ecr_2qb": "346",
+    "ecr_pos": "41"
+  },
+  {
+    "player": "Nick Nash",
+    "age": "NA",
+    "ecr_1qb": "346",
+    "ecr_2qb": "346",
+    "ecr_pos": "108"
+  },
+  {
+    "player": "Jordan Watkins",
+    "age": "23.6",
+    "ecr_1qb": "346",
+    "ecr_2qb": "346",
+    "ecr_pos": "108"
+  },
+  {
+    "player": "Dillon Gabriel",
+    "age": "24.7",
+    "ecr_1qb": "346.5",
+    "ecr_2qb": "349.5",
+    "ecr_pos": "38"
+  },
+  {
+    "player": "Khalil Herbert",
+    "age": "NA",
+    "ecr_1qb": "347",
+    "ecr_2qb": "347",
+    "ecr_pos": "79"
+  },
+  {
+    "player": "Darnell Washington",
+    "age": "24.1",
+    "ecr_1qb": "347",
+    "ecr_2qb": "347",
+    "ecr_pos": "42"
+  },
+  {
+    "player": "Devontez Walker",
+    "age": "24.3",
+    "ecr_1qb": "347",
+    "ecr_2qb": "347",
+    "ecr_pos": "109"
+  },
+  {
+    "player": "Joe Milton III",
+    "age": "25.6",
+    "ecr_1qb": "347.5",
+    "ecr_2qb": "350.5",
+    "ecr_pos": "39"
+  },
+  {
+    "player": "Will Dissly",
+    "age": "29.2",
+    "ecr_1qb": "347.5",
+    "ecr_2qb": "347.5",
+    "ecr_pos": "42.5"
+  },
+  {
+    "player": "Jimmy Garoppolo",
+    "age": "33.9",
+    "ecr_1qb": "348.5",
+    "ecr_2qb": "351.5",
+    "ecr_pos": "40"
+  },
+  {
+    "player": "Quinn Ewers",
+    "age": "22.4",
+    "ecr_1qb": "348.5",
+    "ecr_2qb": "351.5",
+    "ecr_pos": "40"
+  },
+  {
+    "player": "Donovan Edwards",
+    "age": "NA",
+    "ecr_1qb": "349",
+    "ecr_2qb": "349",
+    "ecr_pos": "81"
+  },
+  {
+    "player": "Luke Lachey",
+    "age": "NA",
+    "ecr_1qb": "350",
+    "ecr_2qb": "350",
+    "ecr_pos": "45"
+  },
+  {
+    "player": "Ricky White III",
+    "age": "NA",
+    "ecr_1qb": "350",
+    "ecr_2qb": "350",
+    "ecr_pos": "112"
+  },
+  {
+    "player": "Mason Rudolph",
+    "age": "30.2",
+    "ecr_1qb": "350.5",
+    "ecr_2qb": "353.5",
+    "ecr_pos": "42"
+  },
+  {
+    "player": "Ty Chandler",
+    "age": "27.4",
+    "ecr_1qb": "350.5",
+    "ecr_2qb": "350.5",
+    "ecr_pos": "82.5"
+  },
+  {
+    "player": "Raheim Sanders",
+    "age": "NA",
+    "ecr_1qb": "351",
+    "ecr_2qb": "351",
+    "ecr_pos": "83"
+  },
+  {
+    "player": "Kenny Pickett",
+    "age": "NA",
+    "ecr_1qb": "351.5",
+    "ecr_2qb": "354.5",
+    "ecr_pos": "43"
+  },
+  {
+    "player": "Kalel Mullings",
+    "age": "23",
+    "ecr_1qb": "352",
+    "ecr_2qb": "352",
+    "ecr_pos": "84"
+  },
+  {
+    "player": "Erick All Jr.",
+    "age": "25",
+    "ecr_1qb": "352",
+    "ecr_2qb": "352",
+    "ecr_pos": "47"
+  },
+  {
+    "player": "Zamir White",
+    "age": "26",
+    "ecr_1qb": "353",
+    "ecr_2qb": "353",
+    "ecr_pos": "85"
+  },
+  {
+    "player": "Alexander Mattison",
+    "age": "27.3",
+    "ecr_1qb": "353.5",
+    "ecr_2qb": "353.5",
+    "ecr_pos": "85.5"
+  },
+  {
+    "player": "A.J. Dillon",
+    "age": "27.4",
+    "ecr_1qb": "354",
+    "ecr_2qb": "354",
+    "ecr_pos": "86"
+  },
+  {
+    "player": "Phil Mafah",
+    "age": "22.9",
+    "ecr_1qb": "354",
+    "ecr_2qb": "354",
+    "ecr_pos": "86"
+  },
+  {
+    "player": "Ty Johnson",
+    "age": "28",
+    "ecr_1qb": "355",
+    "ecr_2qb": "355",
+    "ecr_pos": "87"
+  },
+  {
+    "player": "Jake Bobo",
+    "age": "27.1",
+    "ecr_1qb": "355",
+    "ecr_2qb": "355",
+    "ecr_pos": "117"
+  },
+  {
+    "player": "Chris Rodriguez Jr.",
+    "age": "25",
+    "ecr_1qb": "356.5",
+    "ecr_2qb": "356.5",
+    "ecr_pos": "88.5"
+  },
+  {
+    "player": "LeQuint Allen Jr.",
+    "age": "21.1",
+    "ecr_1qb": "357",
+    "ecr_2qb": "357",
+    "ecr_pos": "89"
+  },
+  {
+    "player": "Cam Akers",
+    "age": "NA",
+    "ecr_1qb": "357",
+    "ecr_2qb": "357",
+    "ecr_pos": "89"
+  },
+  {
+    "player": "Emanuel Wilson",
+    "age": "26.4",
+    "ecr_1qb": "359",
+    "ecr_2qb": "359",
+    "ecr_pos": "91"
+  },
+  {
+    "player": "Rasheen Ali",
+    "age": "24.6",
+    "ecr_1qb": "361",
+    "ecr_2qb": "361",
+    "ecr_pos": "93"
   }
 ]
